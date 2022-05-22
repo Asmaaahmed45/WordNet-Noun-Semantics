@@ -1,0 +1,5000 @@
+16,physical_entity
+9,vascular_plant tracheophyte
+9,woody_plant ligneous_plant
+12,physical_entity
+19,physical_entity
+14,physical_entity
+13,vascular_plant tracheophyte
+17,physical_entity
+16,physical_entity
+15,physical_entity
+11,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+12,entity
+2,herb herbaceous_plant
+8,vascular_plant tracheophyte
+15,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+18,physical_entity
+4,herb herbaceous_plant
+18,physical_entity
+10,thing
+6,woody_plant ligneous_plant
+13,physical_entity
+19,physical_entity
+11,process physical_process
+13,physical_entity
+3,angiospermous_tree flowering_tree
+8,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+10,vascular_plant tracheophyte OR plant flora plant_life
+19,physical_entity
+12,whole unit
+19,physical_entity
+5,herb herbaceous_plant
+9,vascular_plant tracheophyte
+16,physical_entity
+14,whole unit
+17,physical_entity
+13,physical_entity
+19,physical_entity
+16,physical_entity
+13,physical_entity
+6,part piece
+15,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+13,whole unit
+18,physical_entity
+18,physical_entity
+12,physical_entity
+4,shrub bush
+12,physical_entity
+15,physical_entity
+13,physical_entity
+12,thing
+15,physical_entity
+9,vascular_plant tracheophyte
+14,physical_entity
+11,process physical_process
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+15,physical_entity
+21,physical_entity
+4,tree
+11,physical_entity
+10,thing
+17,physical_entity
+15,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+15,physical_entity
+13,whole unit
+9,vascular_plant tracheophyte
+18,physical_entity
+6,vascular_plant tracheophyte
+5,tree
+18,physical_entity
+16,physical_entity
+17,physical_entity
+17,physical_entity
+15,physical_entity
+15,whole unit
+7,vascular_plant tracheophyte
+12,thing
+12,thing
+12,physical_entity
+10,whole unit
+7,vascular_plant tracheophyte
+13,physical_entity
+7,tree
+8,vascular_plant tracheophyte
+19,physical_entity
+5,woody_plant ligneous_plant
+8,body_part
+8,part piece
+5,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+10,thing
+7,plant flora plant_life OR vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+19,physical_entity
+6,herb herbaceous_plant
+2,herb herbaceous_plant
+10,physical_entity
+16,physical_entity
+19,physical_entity
+14,physical_entity
+4,herb herbaceous_plant
+16,physical_entity
+19,physical_entity
+5,vascular_plant tracheophyte
+14,physical_entity
+13,process physical_process
+9,process physical_process
+17,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+12,physical_entity
+10,whole unit
+19,physical_entity
+13,physical_entity
+13,physical_entity
+19,physical_entity
+13,physical_entity
+14,whole unit
+13,whole unit
+16,physical_entity
+3,herb herbaceous_plant
+20,physical_entity
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+7,woody_plant ligneous_plant
+8,physical_entity
+14,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+11,thing
+11,body_part
+5,woody_plant ligneous_plant
+17,physical_entity
+16,physical_entity
+16,physical_entity
+19,physical_entity
+2,tree
+6,vascular_plant tracheophyte
+18,physical_entity
+12,whole unit
+15,physical_entity
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+15,thing
+17,whole unit
+15,physical_entity
+9,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+18,physical_entity
+4,tree
+4,vascular_plant tracheophyte
+15,physical_entity
+14,physical_entity
+5,angiosperm flowering_plant
+6,vascular_plant tracheophyte
+21,physical_entity
+15,whole unit
+14,physical_entity
+5,herb herbaceous_plant
+19,physical_entity
+7,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+9,physical_entity
+9,vascular_plant tracheophyte
+6,body_part
+17,physical_entity
+10,whole unit
+18,whole unit
+23,physical_entity
+3,shrub bush
+5,tree
+18,physical_entity
+14,physical_entity
+10,physical_entity
+20,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+20,physical_entity
+7,thing
+14,physical_entity
+6,vascular_plant tracheophyte
+11,physical_entity
+8,vascular_plant tracheophyte
+5,natural_object
+9,vascular_plant tracheophyte OR plant flora plant_life
+18,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+16,physical_entity
+18,whole unit OR physical_entity
+8,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+12,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+14,physical_entity
+18,physical_entity
+15,physical_entity
+5,vascular_plant tracheophyte
+12,whole unit
+17,physical_entity
+7,vascular_plant tracheophyte
+22,physical_entity
+6,process physical_process
+8,vascular_plant tracheophyte
+17,physical_entity
+20,physical_entity
+11,body_part
+7,gramineous_plant graminaceous_plant
+11,whole unit
+14,physical_entity
+14,physical_entity
+19,whole unit
+16,physical_entity
+14,whole unit
+21,physical_entity
+4,tree
+17,physical_entity
+12,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+19,physical_entity
+13,physical_entity
+16,physical_entity
+15,whole unit
+9,vascular_plant tracheophyte
+15,physical_entity
+10,vascular_plant tracheophyte
+14,physical_entity
+17,physical_entity
+3,shrub bush
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+15,physical_entity
+20,physical_entity
+14,physical_entity
+4,herb herbaceous_plant
+14,physical_entity
+8,vascular_plant tracheophyte
+13,whole unit
+15,physical_entity
+5,body_of_water water
+8,vascular_plant tracheophyte
+16,whole unit
+12,physical_entity
+6,vascular_plant tracheophyte
+19,physical_entity
+18,physical_entity
+6,tree
+7,organism being
+8,woody_plant ligneous_plant
+15,physical_entity
+4,structure anatomical_structure complex_body_part bodily_structure body_structure
+10,physical_entity
+18,physical_entity
+7,natural_object
+10,vascular_plant tracheophyte
+14,physical_entity
+11,physical_entity
+18,physical_entity
+12,physical_entity
+18,physical_entity
+11,whole unit
+19,physical_entity
+15,physical_entity
+10,part piece
+17,physical_entity
+15,physical_entity
+2,tree
+11,vascular_plant tracheophyte
+12,whole unit
+6,vascular_plant tracheophyte
+17,physical_entity
+13,physical_entity
+10,vascular_plant tracheophyte
+12,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+16,physical_entity
+6,herb herbaceous_plant
+11,whole unit
+3,herb herbaceous_plant
+17,physical_entity
+16,physical_entity
+18,physical_entity
+17,physical_entity
+4,shrub bush
+15,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+18,physical_entity
+6,bodily_process body_process bodily_function activity
+7,woody_plant ligneous_plant
+9,vascular_plant tracheophyte
+8,plant flora plant_life OR vascular_plant tracheophyte
+11,whole unit
+7,thing
+18,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+18,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+18,physical_entity
+18,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte
+17,physical_entity
+15,physical_entity
+13,physical_entity
+16,physical_entity
+8,natural_object
+18,physical_entity
+7,organic_process biological_process
+4,herb herbaceous_plant
+14,physical_entity
+12,whole unit
+9,process physical_process
+10,thing
+12,physical_entity
+4,vascular_plant tracheophyte
+14,physical_entity
+5,vascular_plant tracheophyte
+15,physical_entity
+8,physical_entity
+14,physical_entity
+14,physical_entity
+19,physical_entity
+6,woody_plant ligneous_plant
+15,physical_entity
+17,physical_entity
+14,whole unit
+9,thing
+8,vascular_plant tracheophyte
+9,tree
+7,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+15,whole unit
+13,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+21,physical_entity
+15,physical_entity
+3,shrub bush
+5,woody_plant ligneous_plant
+18,physical_entity
+13,whole unit
+10,physical_entity
+3,shrub bush
+16,physical_entity
+15,whole unit
+7,vascular_plant tracheophyte
+16,physical_entity
+6,vascular_plant tracheophyte
+8,process physical_process
+19,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+5,vascular_plant tracheophyte
+17,physical_entity
+9,whole unit
+13,physical_entity
+12,whole unit
+10,whole unit
+16,physical_entity
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+12,physical_entity
+17,physical_entity
+9,thing
+16,physical_entity
+11,whole unit
+7,body_part
+17,physical_entity
+16,physical_entity
+15,physical_entity
+15,physical_entity
+12,body_part
+6,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+15,physical_entity
+4,vascular_plant tracheophyte
+2,herb herbaceous_plant
+15,physical_entity
+8,body_part
+12,whole unit
+10,whole unit
+16,physical_entity
+18,physical_entity
+9,vascular_plant tracheophyte
+12,whole unit
+8,thing
+18,physical_entity
+15,physical_entity
+18,physical_entity
+11,vascular_plant tracheophyte
+20,physical_entity
+10,physical_entity
+4,process physical_process
+13,physical_entity
+18,physical_entity
+19,physical_entity
+6,vascular_plant tracheophyte
+7,structure anatomical_structure complex_body_part bodily_structure body_structure
+5,vascular_plant tracheophyte
+13,natural_object
+12,body_part
+13,physical_entity
+11,body_part
+9,vascular_plant tracheophyte
+7,herb herbaceous_plant
+12,physical_entity
+3,shrub bush
+6,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+15,physical_entity
+12,whole unit
+16,physical_entity
+8,vascular_plant tracheophyte
+20,physical_entity
+16,physical_entity
+16,physical_entity
+14,physical_entity
+9,physical_entity
+17,physical_entity
+10,thing
+9,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+15,physical_entity
+9,whole unit
+16,physical_entity
+7,vascular_plant tracheophyte
+12,physical_entity
+11,whole unit
+8,vascular_plant tracheophyte
+18,physical_entity
+12,thing
+16,physical_entity
+14,physical_entity
+13,whole unit
+16,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+7,woody_plant ligneous_plant
+9,vascular_plant tracheophyte
+15,physical_entity
+7,natural_process natural_action action activity
+13,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+8,physical_entity
+6,vascular_plant tracheophyte
+5,woody_plant ligneous_plant
+10,body_part
+11,physical_entity
+8,physical_entity
+6,vascular_plant tracheophyte
+17,physical_entity
+7,tree
+15,physical_entity
+17,physical_entity
+8,vascular_plant tracheophyte
+12,physical_entity
+4,herb herbaceous_plant
+13,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+16,physical_entity
+20,physical_entity
+17,physical_entity
+17,physical_entity
+14,physical_entity
+13,physical_entity
+8,woody_plant ligneous_plant
+11,vascular_plant tracheophyte
+12,whole unit
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+5,body_part
+15,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,thing
+8,vascular_plant tracheophyte
+14,physical_entity
+5,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+20,physical_entity
+19,physical_entity
+15,whole unit
+16,physical_entity
+5,vascular_plant tracheophyte
+18,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+15,whole unit
+13,whole unit
+6,tree
+17,physical_entity
+19,physical_entity
+18,physical_entity
+14,physical_entity
+10,thing
+4,tree
+20,physical_entity
+18,physical_entity
+13,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+4,human_process
+11,physical_entity
+14,whole unit
+10,vascular_plant tracheophyte OR plant flora plant_life
+10,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+6,tree
+6,vascular_plant tracheophyte
+11,physical_entity
+17,physical_entity
+17,physical_entity
+9,body_part
+4,tree
+18,physical_entity
+7,herb herbaceous_plant
+10,part piece
+19,physical_entity
+18,physical_entity
+15,physical_entity
+13,physical_entity
+4,woody_plant ligneous_plant
+18,physical_entity
+7,vascular_plant tracheophyte
+18,physical_entity
+13,physical_entity
+12,physical_entity
+15,physical_entity
+6,physical_entity
+19,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+12,whole unit
+17,physical_entity
+19,physical_entity
+12,whole unit
+16,physical_entity
+13,physical_entity
+14,physical_entity
+4,herb herbaceous_plant
+12,thing
+16,whole unit
+16,physical_entity
+3,shrub bush
+15,physical_entity
+11,whole unit
+19,physical_entity
+18,physical_entity
+10,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+12,physical_entity
+4,covering natural_covering cover
+19,physical_entity
+15,physical_entity
+12,physical_entity
+3,tree
+16,physical_entity
+7,organism being
+9,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+15,physical_entity
+12,whole unit
+16,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+7,vascular_plant tracheophyte
+17,physical_entity
+5,whole unit
+18,physical_entity
+17,physical_entity
+20,physical_entity
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+16,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+14,whole unit
+9,physical_entity
+4,vascular_plant tracheophyte
+11,physical_entity
+14,physical_entity
+15,physical_entity
+14,whole unit
+10,vascular_plant tracheophyte
+6,process physical_process
+7,vascular_plant tracheophyte
+6,connective_tissue
+14,physical_entity
+6,animal_tissue OR body_part
+15,physical_entity
+7,thing
+11,whole unit
+8,vascular_plant tracheophyte
+13,physical_entity
+6,body_part OR organ
+6,vascular_plant tracheophyte
+17,physical_entity
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,physical_entity
+12,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+20,physical_entity
+16,whole unit
+15,physical_entity
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+11,physical_entity
+11,physical_entity
+15,physical_entity
+13,physical_entity
+5,tree
+7,vascular_plant tracheophyte
+16,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+7,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+15,physical_entity
+11,physical_entity
+19,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+13,physical_entity
+19,physical_entity
+14,physical_entity
+6,vascular_plant tracheophyte
+21,physical_entity
+15,whole unit
+11,natural_object
+10,physical_entity
+12,whole unit
+12,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+19,physical_entity
+11,whole unit
+3,shrub bush
+11,physical_entity
+20,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+17,physical_entity
+10,physical_entity
+12,physical_entity
+14,physical_entity
+10,physical_entity
+14,physical_entity
+13,whole unit
+10,vascular_plant tracheophyte
+15,physical_entity
+14,whole unit
+9,vascular_plant tracheophyte
+18,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte OR plant flora plant_life
+4,natural_process natural_action action activity
+8,whole unit
+15,physical_entity
+16,physical_entity
+14,physical_entity
+10,physical_entity
+6,vascular_plant tracheophyte
+5,edible_fruit
+12,whole unit
+19,physical_entity
+19,physical_entity
+7,thing
+15,physical_entity
+5,angiosperm flowering_plant
+6,herb herbaceous_plant
+11,body_part
+14,physical_entity
+8,vascular_plant tracheophyte
+12,physical_entity
+10,vascular_plant tracheophyte OR plant flora plant_life
+6,tree
+16,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+12,physical_entity
+14,physical_entity
+13,physical_entity
+11,whole unit
+8,body_part
+10,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+18,physical_entity
+18,physical_entity
+9,physical_phenomenon
+3,tree
+15,physical_entity
+17,physical_entity
+12,physical_entity
+17,physical_entity
+8,vascular_plant tracheophyte
+12,vascular_plant tracheophyte
+10,whole unit
+19,physical_entity
+9,body_part
+14,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte
+17,physical_entity
+16,physical_entity
+13,physical_entity
+13,physical_entity
+13,physical_entity
+10,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+11,whole unit
+8,vascular_plant tracheophyte
+9,physical_entity
+4,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+8,tree
+10,process physical_process
+5,vascular_plant tracheophyte
+15,physical_entity
+13,whole unit
+5,vascular_plant tracheophyte
+9,natural_phenomenon
+17,physical_entity
+10,vascular_plant tracheophyte
+12,natural_object
+15,physical_entity
+16,physical_entity
+16,physical_entity
+4,herb herbaceous_plant
+12,whole unit
+19,physical_entity
+7,vascular_plant tracheophyte
+13,whole unit
+11,physical_entity
+14,physical_entity
+16,physical_entity
+9,natural_object
+16,physical_entity
+8,physical_entity
+15,physical_entity
+15,physical_entity
+15,physical_entity
+18,physical_entity
+13,physical_entity
+15,whole unit
+16,physical_entity
+12,physical_entity
+15,physical_entity
+12,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+10,physical_entity
+14,whole unit
+15,physical_entity
+17,physical_entity
+9,physical_entity
+14,physical_entity
+9,physical_entity
+18,physical_entity
+14,physical_entity
+21,physical_entity
+7,vascular_plant tracheophyte
+15,whole unit
+16,physical_entity
+6,physical_phenomenon
+12,physical_entity
+7,vascular_plant tracheophyte
+11,whole unit
+11,physical_entity
+19,physical_entity
+18,physical_entity
+12,physical_entity
+12,whole unit
+16,physical_entity
+8,woody_plant ligneous_plant
+13,physical_entity
+17,whole unit
+18,physical_entity
+6,organic_process biological_process
+16,physical_entity
+15,physical_entity
+18,physical_entity
+13,whole unit
+17,physical_entity
+15,physical_entity
+13,physical_entity
+7,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+11,physical_entity
+12,physical_entity
+17,physical_entity
+18,physical_entity
+18,physical_entity
+9,vascular_plant tracheophyte
+9,woody_plant ligneous_plant
+13,whole unit
+15,physical_entity
+15,physical_entity
+22,physical_entity
+14,physical_entity
+12,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+16,physical_entity
+11,vascular_plant tracheophyte
+17,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+14,physical_entity
+14,whole unit
+14,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+18,physical_entity
+16,physical_entity
+9,vascular_plant tracheophyte
+11,physical_entity
+11,vascular_plant tracheophyte
+19,physical_entity
+13,physical_entity
+16,physical_entity
+13,physical_entity
+7,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+13,physical_entity
+4,vascular_plant tracheophyte
+11,physical_entity
+8,physical_entity
+13,whole unit
+5,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+17,physical_entity
+17,physical_entity
+13,physical_entity
+10,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+16,whole unit
+6,vascular_plant tracheophyte
+4,shrub bush
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+12,whole unit
+15,physical_entity
+8,woody_plant ligneous_plant
+17,physical_entity
+9,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+18,physical_entity
+18,physical_entity
+13,physical_entity
+17,physical_entity
+5,vascular_plant tracheophyte
+19,physical_entity
+19,physical_entity
+19,physical_entity
+19,physical_entity
+2,gymnospermous_tree
+17,physical_entity
+10,thing
+17,physical_entity
+4,passage passageway
+3,organic_process biological_process
+16,physical_entity
+14,physical_entity
+9,thing
+6,vascular_plant tracheophyte
+18,physical_entity
+9,physical_entity
+14,physical_entity
+9,herb herbaceous_plant
+6,process physical_process
+13,physical_entity
+17,physical_entity
+17,physical_entity
+10,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+9,whole unit
+15,physical_entity
+20,physical_entity
+11,natural_object
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte OR plant flora plant_life
+5,process physical_process
+12,whole unit
+21,physical_entity
+11,thing
+7,vascular_plant tracheophyte
+12,thing
+11,physical_entity
+11,whole unit
+10,thing
+16,physical_entity
+16,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+14,physical_entity
+6,body_part
+8,vascular_plant tracheophyte
+12,body_part
+12,physical_entity
+16,physical_entity
+14,physical_entity
+17,physical_entity
+15,physical_entity
+17,physical_entity
+5,angiospermous_tree flowering_tree
+15,physical_entity
+14,physical_entity
+18,physical_entity
+18,physical_entity
+13,whole unit
+14,physical_entity
+14,whole unit
+14,physical_entity
+13,physical_entity
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+17,physical_entity
+11,thing
+4,woody_plant ligneous_plant
+4,herb herbaceous_plant
+19,physical_entity
+13,whole unit
+12,whole unit
+17,physical_entity
+14,physical_entity
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+12,physical_entity
+20,physical_entity
+9,vascular_plant tracheophyte
+11,whole unit
+6,vascular_plant tracheophyte
+4,herb herbaceous_plant
+4,plant_organ
+16,physical_entity
+9,process physical_process
+15,physical_entity
+13,whole unit
+19,physical_entity
+20,physical_entity
+18,physical_entity
+16,physical_entity
+14,physical_entity
+15,physical_entity
+3,herb herbaceous_plant
+13,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+13,physical_entity
+5,process physical_process
+7,vascular_plant tracheophyte
+2,herb herbaceous_plant
+16,physical_entity
+10,body_part
+14,physical_entity
+15,physical_entity
+16,physical_entity
+7,process physical_process
+16,physical_entity
+18,physical_entity
+13,whole unit
+5,vascular_plant tracheophyte
+8,thing
+10,vascular_plant tracheophyte
+14,physical_entity
+14,whole unit
+9,vascular_plant tracheophyte
+5,woody_plant ligneous_plant
+12,whole unit
+12,whole unit
+16,physical_entity
+10,physical_entity
+14,physical_entity
+5,vascular_plant tracheophyte
+14,physical_entity
+14,physical_entity
+3,woody_plant ligneous_plant
+15,physical_entity
+7,vascular_plant tracheophyte
+11,physical_entity
+5,vascular_plant tracheophyte
+12,physical_entity
+11,physical_entity
+18,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+9,body_part
+21,physical_entity
+2,shrub bush
+18,physical_entity
+10,physical_entity
+18,physical_entity
+14,physical_entity
+5,vascular_plant tracheophyte
+11,process physical_process
+6,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+16,whole unit
+9,physical_entity
+19,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+10,physical_entity
+14,physical_entity
+9,physical_entity
+18,physical_entity
+16,whole unit
+14,physical_entity
+6,woody_plant ligneous_plant
+14,physical_entity
+10,physical_entity
+10,thing
+17,physical_entity
+20,physical_entity
+4,vascular_plant tracheophyte
+12,physical_entity
+7,vascular_plant tracheophyte
+5,process physical_process
+17,physical_entity
+1,sago_palm Cycas_revoluta
+18,physical_entity
+13,physical_entity
+15,physical_entity
+16,physical_entity
+17,physical_entity
+11,vascular_plant tracheophyte
+12,whole unit
+10,whole unit
+4,fern
+6,vascular_plant tracheophyte
+9,vascular_plant tracheophyte OR plant flora plant_life
+7,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+11,physical_entity
+10,physical_entity
+13,physical_entity
+19,physical_entity
+9,whole unit
+13,physical_entity
+5,woody_plant ligneous_plant
+12,physical_entity
+11,vascular_plant tracheophyte
+13,physical_entity
+8,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+3,herb herbaceous_plant
+15,whole unit
+17,physical_entity
+14,physical_entity
+14,physical_entity
+10,process physical_process
+20,physical_entity
+17,whole unit
+7,vascular_plant tracheophyte
+3,herb herbaceous_plant
+15,physical_entity
+15,whole unit
+7,woody_plant ligneous_plant
+9,process physical_process
+14,physical_entity
+6,vascular_plant tracheophyte
+9,vascular_plant tracheophyte OR plant flora plant_life
+8,vascular_plant tracheophyte
+16,physical_entity
+8,vascular_plant tracheophyte
+15,physical_entity
+13,physical_entity
+5,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+10,vascular_plant tracheophyte
+13,physical_entity
+11,thing
+14,physical_entity
+14,whole unit
+7,vascular_plant tracheophyte
+18,physical_entity
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+15,physical_entity
+18,physical_entity
+8,vascular_plant tracheophyte
+19,physical_entity
+13,whole unit
+15,whole unit
+10,vascular_plant tracheophyte
+11,physical_entity
+7,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+8,vascular_plant tracheophyte
+12,body_part
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+18,physical_entity
+6,tree
+3,tree
+14,physical_entity
+11,physical_entity
+6,vascular_plant tracheophyte
+8,physical_entity
+9,vascular_plant tracheophyte
+22,physical_entity
+16,physical_entity
+11,physical_entity
+16,physical_entity
+8,woody_plant ligneous_plant
+18,physical_entity
+6,process physical_process
+16,whole unit
+8,plant flora plant_life OR vascular_plant tracheophyte
+19,physical_entity
+19,physical_entity
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+17,physical_entity
+9,vascular_plant tracheophyte
+13,physical_entity
+9,vascular_plant tracheophyte
+12,physical_entity
+14,physical_entity
+17,physical_entity
+20,physical_entity
+11,vascular_plant tracheophyte OR plant flora plant_life
+15,physical_entity
+4,herb herbaceous_plant
+20,physical_entity
+16,physical_entity
+3,shrub bush
+6,vascular_plant tracheophyte
+20,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+13,whole unit
+7,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+12,thing
+7,vascular_plant tracheophyte
+19,physical_entity
+9,vascular_plant tracheophyte
+13,physical_entity
+10,thing
+14,physical_entity
+16,physical_entity
+15,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+12,whole unit
+19,physical_entity
+11,vascular_plant tracheophyte
+18,physical_entity
+10,process physical_process
+8,vascular_plant tracheophyte
+20,physical_entity
+16,physical_entity
+15,physical_entity
+17,physical_entity
+12,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+14,physical_entity
+16,physical_entity
+18,physical_entity
+5,vascular_plant tracheophyte
+13,physical_entity
+13,physical_entity
+11,thing
+16,physical_entity
+7,vascular_plant tracheophyte
+7,woody_plant ligneous_plant
+14,whole unit
+15,physical_entity
+18,physical_entity
+18,physical_entity
+20,physical_entity
+12,physical_entity
+16,physical_entity
+10,vascular_plant tracheophyte OR plant flora plant_life
+13,whole unit
+13,whole unit
+6,vascular_plant tracheophyte
+10,thing
+16,physical_entity
+6,vascular_plant tracheophyte
+7,tree
+5,process physical_process
+16,physical_entity
+12,physical_entity
+11,whole unit
+19,physical_entity
+4,tree
+17,physical_entity
+8,vascular_plant tracheophyte
+3,vein vena venous_blood_vessel
+10,vascular_plant tracheophyte
+14,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+11,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+11,physical_entity
+15,physical_entity
+10,thing
+9,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+14,physical_entity
+4,herb herbaceous_plant
+17,whole unit
+18,physical_entity
+15,whole unit
+18,physical_entity
+12,physical_entity
+8,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+13,whole unit
+19,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+10,vascular_plant tracheophyte
+12,physical_entity
+14,physical_entity
+16,physical_entity
+12,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+15,physical_entity
+19,physical_entity
+4,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+17,physical_entity
+9,vascular_plant tracheophyte
+13,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+19,physical_entity
+17,physical_entity
+11,physical_entity
+5,woody_plant ligneous_plant
+12,physical_entity
+14,physical_entity
+13,whole unit
+18,physical_entity
+8,thing
+16,physical_entity
+18,physical_entity
+18,physical_entity
+16,physical_entity
+5,vascular_plant tracheophyte
+16,whole unit
+17,whole unit
+16,physical_entity
+5,shrub bush
+13,physical_entity
+9,vascular_plant tracheophyte
+14,physical_entity
+8,physical_entity
+9,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+8,organism being
+15,physical_entity
+9,vascular_plant tracheophyte
+18,physical_entity
+18,physical_entity
+18,physical_entity
+10,whole unit
+14,physical_entity
+19,physical_entity
+14,physical_entity
+11,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+8,woody_plant ligneous_plant
+14,physical_entity
+15,physical_entity
+7,tree
+15,physical_entity
+17,physical_entity
+15,physical_entity
+6,woody_plant ligneous_plant
+2,structure anatomical_structure complex_body_part bodily_structure body_structure
+13,whole unit
+8,plant flora plant_life OR vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+11,vascular_plant tracheophyte
+12,whole unit
+18,whole unit
+5,tree
+3,herb herbaceous_plant
+9,vascular_plant tracheophyte
+14,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+14,physical_entity
+17,physical_entity
+16,physical_entity
+16,physical_entity
+14,physical_entity
+12,thing
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+16,physical_entity
+6,body_of_water water
+17,physical_entity
+7,tree
+3,shrub bush
+19,physical_entity
+14,whole unit
+15,physical_entity
+3,herb herbaceous_plant
+13,physical_entity
+17,whole unit
+14,physical_entity
+17,physical_entity
+12,physical_entity
+4,vascular_plant tracheophyte
+17,physical_entity
+14,thing
+10,vascular_plant tracheophyte
+13,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+6,angiospermous_tree flowering_tree
+14,entity
+14,physical_entity
+17,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+15,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+6,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+9,physical_entity
+14,whole unit
+16,physical_entity
+7,living_thing animate_thing
+17,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+20,physical_entity
+20,physical_entity
+5,woody_plant ligneous_plant
+6,woody_plant ligneous_plant
+15,physical_entity
+10,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+9,thing
+7,vascular_plant tracheophyte
+13,physical_entity
+6,woody_plant ligneous_plant OR vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+8,body_part
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+10,process physical_process
+8,vascular_plant tracheophyte
+18,physical_entity
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+13,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+6,vascular_plant tracheophyte
+10,thing
+15,physical_entity
+6,fruit
+7,natural_phenomenon
+15,physical_entity
+3,herb herbaceous_plant
+7,woody_plant ligneous_plant
+18,physical_entity
+18,physical_entity
+15,physical_entity
+18,physical_entity
+17,physical_entity
+5,vascular_plant tracheophyte
+14,physical_entity
+18,physical_entity
+12,whole unit
+10,vascular_plant tracheophyte
+3,herb herbaceous_plant
+11,thing
+14,physical_entity
+7,woody_plant ligneous_plant
+17,physical_entity
+14,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+11,physical_entity
+17,physical_entity
+11,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+14,physical_entity
+6,woody_plant ligneous_plant
+2,river
+18,physical_entity
+12,physical_entity
+14,physical_entity
+17,physical_entity
+18,physical_entity
+17,physical_entity
+12,physical_entity
+17,physical_entity
+8,thing
+17,physical_entity
+17,physical_entity
+15,whole unit
+7,herb herbaceous_plant
+4,shrub bush
+3,herb herbaceous_plant
+18,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+4,shrub bush
+7,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+11,vascular_plant tracheophyte
+6,tree
+17,physical_entity
+5,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+19,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+3,tree
+10,whole unit
+9,process physical_process
+9,vascular_plant tracheophyte
+15,physical_entity
+11,physical_entity
+13,physical_entity
+7,woody_plant ligneous_plant
+17,physical_entity
+13,physical_entity
+14,physical_entity
+16,physical_entity
+5,vascular_plant tracheophyte
+15,physical_entity
+16,physical_entity
+11,physical_entity
+18,physical_entity
+15,physical_entity
+15,physical_entity
+13,physical_entity
+18,physical_entity
+6,vascular_plant tracheophyte
+9,physical_entity
+10,vascular_plant tracheophyte
+6,tree
+2,muscle muscular_tissue
+6,vascular_plant tracheophyte
+13,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+16,physical_entity
+20,physical_entity
+9,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+12,physical_entity
+9,physical_entity
+8,vascular_plant tracheophyte
+15,physical_entity
+19,physical_entity
+18,physical_entity
+15,physical_entity
+11,physical_entity
+11,whole unit
+15,physical_entity
+9,herb herbaceous_plant
+14,thing
+13,physical_entity
+7,woody_plant ligneous_plant
+14,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+18,physical_entity
+17,physical_entity
+11,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,whole unit
+18,physical_entity
+6,vascular_plant tracheophyte
+10,thing
+13,physical_entity
+15,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+5,woody_plant ligneous_plant
+5,woody_plant ligneous_plant
+18,physical_entity
+14,physical_entity
+12,physical_entity
+18,physical_entity
+9,vascular_plant tracheophyte
+14,physical_entity
+18,physical_entity
+20,physical_entity
+19,physical_entity
+7,vascular_plant tracheophyte
+13,physical_entity
+6,vascular_plant tracheophyte
+11,whole unit
+6,vascular_plant tracheophyte
+18,physical_entity
+12,process physical_process
+13,physical_entity
+4,shrub bush
+18,physical_entity
+9,process physical_process
+11,whole unit
+6,vascular_plant tracheophyte
+14,physical_entity
+5,process physical_process
+11,physical_entity
+13,physical_entity
+16,physical_entity
+10,physical_entity
+15,physical_entity
+16,physical_entity
+13,whole unit
+13,body_part
+15,physical_entity
+9,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+19,physical_entity
+13,physical_entity
+12,whole unit
+12,whole unit
+8,physical_entity
+13,physical_entity
+14,physical_entity
+5,shrub bush
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+8,plant flora plant_life OR vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+17,physical_entity
+9,structure anatomical_structure complex_body_part bodily_structure body_structure
+17,thing
+7,vascular_plant tracheophyte
+3,herb herbaceous_plant
+10,vascular_plant tracheophyte
+20,physical_entity
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+12,physical_entity
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+9,whole unit
+17,physical_entity
+17,physical_entity
+11,whole unit
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+12,whole unit
+8,plant flora plant_life OR vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+5,tree
+17,physical_entity
+7,vascular_plant tracheophyte
+14,whole unit
+13,whole unit
+13,physical_entity
+11,thing
+19,physical_entity
+14,physical_entity
+11,vascular_plant tracheophyte
+21,physical_entity
+7,process physical_process
+17,physical_entity
+5,vascular_plant tracheophyte
+10,process physical_process
+17,physical_entity
+10,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+17,physical_entity
+15,whole unit
+14,physical_entity
+4,flower
+7,herb herbaceous_plant
+3,wildflower wild_flower
+14,physical_entity
+20,physical_entity
+19,physical_entity
+15,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+10,vascular_plant tracheophyte
+15,physical_entity
+18,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte OR plant flora plant_life
+14,physical_entity
+9,physical_entity
+17,whole unit
+15,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+15,whole unit
+11,thing
+16,physical_entity
+7,process physical_process
+6,woody_plant ligneous_plant
+18,physical_entity
+5,tree
+18,physical_entity
+7,vascular_plant tracheophyte
+14,whole unit
+9,thing
+8,vascular_plant tracheophyte
+5,phenomenon
+19,physical_entity
+14,physical_entity
+4,body_part
+15,physical_entity
+5,physical_phenomenon
+9,thing
+17,physical_entity
+14,physical_entity
+7,vascular_plant tracheophyte
+12,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+20,physical_entity
+14,physical_entity
+16,physical_entity
+15,physical_entity
+21,physical_entity
+15,thing
+15,whole unit
+9,thing
+8,thing
+5,woody_plant ligneous_plant
+13,physical_entity
+15,whole unit
+11,whole unit
+13,physical_entity
+20,physical_entity
+4,tree
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+17,physical_entity
+8,woody_plant ligneous_plant
+2,flower
+19,physical_entity
+13,physical_entity
+5,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+17,whole unit
+18,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+18,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+22,physical_entity
+5,shrub bush
+15,physical_entity
+11,physical_entity
+8,animal_tissue
+4,tree
+9,woody_plant ligneous_plant
+20,physical_entity
+5,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+7,woody_plant ligneous_plant
+3,plant_organ
+12,vascular_plant tracheophyte
+13,whole unit
+3,herb herbaceous_plant
+11,thing
+7,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+9,physical_entity
+6,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+8,process physical_process
+15,physical_entity
+16,physical_entity
+17,physical_entity
+14,physical_entity
+14,vascular_plant tracheophyte
+15,whole unit
+7,vascular_plant tracheophyte
+16,whole unit
+12,physical_entity
+16,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+7,macromolecule supermolecule
+11,body_part
+11,physical_entity
+17,physical_entity
+12,whole unit
+15,physical_entity
+16,physical_entity
+16,physical_entity
+13,physical_entity
+10,whole unit
+6,vascular_plant tracheophyte
+15,physical_entity
+20,physical_entity
+14,physical_entity
+14,physical_entity
+17,physical_entity
+3,herb herbaceous_plant
+18,physical_entity
+12,physical_entity
+12,physical_entity
+15,physical_entity
+1,herb herbaceous_plant
+17,physical_entity
+5,tree
+15,physical_entity
+10,physical_entity
+15,physical_entity
+13,physical_entity
+5,macromolecule supermolecule
+13,whole unit
+9,physical_entity
+15,physical_entity
+4,angiospermous_tree flowering_tree
+16,physical_entity
+9,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+9,thing
+20,physical_entity
+15,physical_entity
+14,physical_entity
+12,physical_entity
+4,fruit_tree
+16,physical_entity
+13,physical_entity
+19,physical_entity
+19,physical_entity
+18,physical_entity
+8,natural_object
+13,vascular_plant tracheophyte
+8,plant flora plant_life OR vascular_plant tracheophyte
+16,physical_entity
+2,herb herbaceous_plant
+10,physical_entity
+15,whole unit
+5,angiospermous_tree flowering_tree
+10,natural_object
+5,herb herbaceous_plant
+9,whole unit
+15,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+10,body_part
+21,physical_entity
+16,physical_entity
+6,lipid lipide lipoid
+13,physical_entity
+15,physical_entity
+6,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+17,whole unit
+17,physical_entity
+10,vascular_plant tracheophyte
+13,whole unit
+13,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+17,physical_entity
+10,physical_entity
+8,vascular_plant tracheophyte
+6,covering natural_covering cover
+3,shrub bush
+7,vascular_plant tracheophyte
+10,whole unit
+4,process outgrowth appendage OR body_part
+16,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+15,physical_entity
+4,herb herbaceous_plant
+20,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+20,physical_entity
+9,vascular_plant tracheophyte
+12,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+15,physical_entity
+13,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+16,physical_entity
+3,orchid orchidaceous_plant
+15,physical_entity
+13,whole unit
+10,whole unit
+5,vascular_plant tracheophyte
+14,physical_entity
+9,vascular_plant tracheophyte
+20,physical_entity
+10,vascular_plant tracheophyte
+17,physical_entity
+15,physical_entity
+9,whole unit
+12,physical_entity
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+16,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+15,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+20,physical_entity
+12,physical_entity
+6,herb herbaceous_plant
+8,physical_entity
+14,thing
+9,natural_object
+7,vascular_plant tracheophyte
+19,physical_entity
+17,physical_entity
+13,physical_entity
+13,physical_entity
+14,physical_entity
+18,physical_entity
+5,angiospermous_tree flowering_tree
+6,vascular_plant tracheophyte
+18,physical_entity
+15,physical_entity
+14,physical_entity
+14,physical_entity
+8,woody_plant ligneous_plant
+13,physical_entity
+4,woody_plant ligneous_plant
+13,physical_entity
+7,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+6,tree
+9,physical_entity
+6,vascular_plant tracheophyte
+9,physical_entity
+10,whole unit
+7,woody_plant ligneous_plant
+17,physical_entity
+6,woody_plant ligneous_plant
+17,physical_entity
+14,physical_entity
+18,physical_entity
+7,vascular_plant tracheophyte
+4,tree
+7,vascular_plant tracheophyte
+8,body_part
+6,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+6,herb herbaceous_plant
+15,physical_entity
+13,physical_entity
+12,thing
+8,thing
+15,physical_entity
+15,physical_entity
+13,whole unit
+11,body_part
+16,physical_entity
+12,physical_entity
+17,physical_entity
+10,whole unit
+15,physical_entity
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,physical_entity
+15,physical_entity
+14,physical_entity
+14,physical_entity
+7,vascular_plant tracheophyte
+13,physical_entity
+16,physical_entity
+11,whole unit
+15,physical_entity
+8,vascular_plant tracheophyte
+15,whole unit
+9,vascular_plant tracheophyte
+14,physical_entity
+19,physical_entity
+7,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+8,vascular_plant tracheophyte OR plant flora plant_life
+8,body_part
+13,physical_entity
+16,physical_entity
+10,process physical_process
+12,physical_entity
+11,physical_entity
+10,physical_entity
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+12,whole unit
+7,vascular_plant tracheophyte
+18,physical_entity
+15,physical_entity
+4,herb herbaceous_plant
+12,thing
+7,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+13,whole unit
+14,physical_entity
+7,vascular_plant tracheophyte
+4,flower
+6,vascular_plant tracheophyte
+17,whole unit
+12,whole unit
+13,whole unit
+16,physical_entity
+6,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+16,physical_entity
+5,atmospheric_phenomenon
+15,physical_entity
+15,physical_entity
+14,physical_entity
+18,physical_entity
+12,whole unit
+16,physical_entity
+11,whole unit
+17,physical_entity
+7,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+15,physical_entity
+18,physical_entity
+9,herb herbaceous_plant
+7,woody_plant ligneous_plant
+10,vascular_plant tracheophyte
+14,physical_entity
+17,physical_entity
+18,physical_entity
+16,physical_entity
+19,physical_entity
+17,physical_entity
+15,physical_entity
+14,physical_entity
+12,whole unit
+15,physical_entity
+20,physical_entity
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+12,process physical_process
+7,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+6,woody_plant ligneous_plant
+11,whole unit
+17,physical_entity
+13,whole unit
+7,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+7,thing
+6,vascular_plant tracheophyte
+11,physical_entity
+9,process physical_process
+16,physical_entity
+8,process physical_process
+17,physical_entity
+7,vascular_plant tracheophyte OR plant flora plant_life
+17,physical_entity
+19,physical_entity
+19,physical_entity
+8,woody_plant ligneous_plant
+15,physical_entity
+13,physical_entity
+15,physical_entity
+14,physical_entity
+17,physical_entity
+13,physical_entity
+20,physical_entity
+16,physical_entity
+8,body_part
+21,physical_entity
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+13,physical_entity
+18,physical_entity
+10,vascular_plant tracheophyte
+14,whole unit
+14,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+16,thing
+8,plant flora plant_life OR vascular_plant tracheophyte
+8,body_part
+10,physical_entity
+12,physical_entity
+12,physical_entity
+19,physical_entity
+10,physical_entity
+3,fruit
+17,physical_entity
+9,physical_entity
+19,physical_entity
+12,physical_entity
+19,physical_entity
+12,physical_entity
+17,physical_entity
+12,whole unit
+6,vascular_plant tracheophyte
+5,process physical_process
+7,vascular_plant tracheophyte
+15,physical_entity
+20,physical_entity
+19,physical_entity
+7,organism being
+15,physical_entity
+13,physical_entity
+6,body_part
+14,physical_entity
+14,physical_entity
+8,body_part
+7,vascular_plant tracheophyte
+14,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+2,shrub bush
+20,physical_entity
+13,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+15,physical_entity
+6,vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+18,physical_entity
+17,physical_entity
+12,physical_entity
+3,shrub bush
+14,whole unit
+16,physical_entity
+7,vascular_plant tracheophyte
+15,physical_entity
+15,physical_entity
+14,physical_entity
+10,physical_entity
+16,physical_entity
+5,shrub bush
+17,physical_entity
+13,physical_entity
+11,vascular_plant tracheophyte
+15,physical_entity
+4,herb herbaceous_plant
+16,physical_entity
+13,physical_entity
+19,physical_entity
+20,physical_entity
+15,whole unit
+13,physical_entity
+11,process physical_process
+4,woody_plant ligneous_plant
+14,physical_entity
+7,vascular_plant tracheophyte
+13,physical_entity
+5,vascular_plant tracheophyte
+18,physical_entity
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+13,thing
+13,whole unit
+16,physical_entity
+9,physical_entity
+18,physical_entity
+16,physical_entity
+15,physical_entity
+14,whole unit
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+10,body_part
+6,organ
+10,whole unit
+12,whole unit
+6,vascular_plant tracheophyte
+16,physical_entity
+19,physical_entity
+11,whole unit
+12,physical_entity
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+15,physical_entity
+13,whole unit
+14,physical_entity
+19,physical_entity
+7,woody_plant ligneous_plant
+18,physical_entity
+8,vascular_plant tracheophyte
+12,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+17,physical_entity
+16,physical_entity
+5,angiospermous_tree flowering_tree
+7,vascular_plant tracheophyte
+14,whole unit
+16,physical_entity
+5,animal_tissue
+17,physical_entity
+5,tree
+11,body_part
+16,physical_entity
+9,vascular_plant tracheophyte
+14,physical_entity
+18,physical_entity
+14,physical_entity
+16,whole unit
+4,woody_plant ligneous_plant
+6,plant flora plant_life OR vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+17,physical_entity
+15,physical_entity
+13,physical_entity
+18,physical_entity
+19,physical_entity
+14,physical_entity
+13,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+18,physical_entity
+20,physical_entity
+3,herb herbaceous_plant
+13,physical_entity
+14,physical_entity
+17,physical_entity
+10,physical_entity
+4,tree
+16,physical_entity
+16,whole unit
+18,physical_entity
+8,vascular_plant tracheophyte
+4,liliaceous_plant
+12,physical_entity
+13,whole unit
+15,whole unit
+6,vascular_plant tracheophyte
+14,physical_entity
+15,physical_entity
+9,physical_entity
+6,vascular_plant tracheophyte
+10,whole unit
+7,vascular_plant tracheophyte
+11,physical_entity
+9,vascular_plant tracheophyte
+13,whole unit
+17,physical_entity
+18,physical_entity
+8,vascular_plant tracheophyte
+11,whole unit
+7,vascular_plant tracheophyte
+15,physical_entity
+12,thing
+13,whole unit
+18,physical_entity
+8,vascular_plant tracheophyte
+21,physical_entity
+18,physical_entity
+4,flower
+6,body_part
+11,thing
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+18,physical_entity
+20,physical_entity
+18,physical_entity
+14,physical_entity
+19,physical_entity
+9,body_part
+15,physical_entity
+7,vascular_plant tracheophyte
+12,physical_entity
+16,physical_entity
+17,physical_entity
+15,physical_entity
+5,vascular_plant tracheophyte
+5,body_of_water water
+16,physical_entity
+8,vascular_plant tracheophyte
+18,whole unit
+9,woody_plant ligneous_plant
+11,body_part
+10,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+20,physical_entity
+17,physical_entity
+19,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+17,physical_entity
+18,physical_entity
+11,vascular_plant tracheophyte
+21,physical_entity
+3,herb herbaceous_plant
+7,thing
+15,physical_entity
+17,physical_entity
+11,thing
+12,physical_entity
+14,physical_entity
+15,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+7,vascular_plant tracheophyte
+17,physical_entity
+18,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+5,thing
+10,vascular_plant tracheophyte
+18,physical_entity
+7,tree
+18,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+19,physical_entity
+17,physical_entity
+20,physical_entity
+15,physical_entity
+15,physical_entity
+6,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+16,physical_entity
+19,whole unit
+15,thing
+13,thing
+15,physical_entity
+14,whole unit
+7,vascular_plant tracheophyte
+3,bodily_process body_process bodily_function activity
+16,whole unit
+14,whole unit
+18,physical_entity
+13,physical_entity
+17,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+18,physical_entity
+12,vascular_plant tracheophyte
+10,thing
+20,physical_entity
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+12,physical_entity
+15,physical_entity
+6,vascular_plant tracheophyte
+19,physical_entity
+10,physical_entity
+7,vascular_plant tracheophyte
+15,physical_entity
+7,vascular_plant tracheophyte
+15,physical_entity
+7,woody_plant ligneous_plant
+10,physical_entity
+17,physical_entity
+12,physical_entity
+6,vascular_plant tracheophyte
+5,woody_plant ligneous_plant
+21,physical_entity
+5,vascular_plant tracheophyte
+17,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+5,woody_plant ligneous_plant
+15,whole unit
+7,body_part
+14,physical_entity
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+4,herb herbaceous_plant
+18,physical_entity
+18,physical_entity
+14,physical_entity
+14,physical_entity
+10,vascular_plant tracheophyte
+14,whole unit
+14,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+11,whole unit
+17,physical_entity
+20,physical_entity
+7,vascular_plant tracheophyte
+7,organism being
+6,vascular_plant tracheophyte
+6,tree
+11,physical_entity
+14,physical_entity
+18,physical_entity
+13,physical_entity
+13,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+18,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+7,vascular_plant tracheophyte
+5,process physical_process
+9,whole unit
+10,vascular_plant tracheophyte
+12,whole unit
+12,whole unit
+8,vascular_plant tracheophyte
+18,physical_entity
+6,woody_plant ligneous_plant
+16,physical_entity
+16,physical_entity
+18,physical_entity
+7,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+10,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+20,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+4,shrub bush
+8,vascular_plant tracheophyte
+10,physical_entity
+20,physical_entity
+5,vascular_plant tracheophyte
+16,physical_entity
+6,tree
+12,whole unit
+20,physical_entity
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+3,vine
+5,woody_plant ligneous_plant
+14,physical_entity
+14,physical_entity
+18,physical_entity
+12,vascular_plant tracheophyte
+13,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+4,woody_plant ligneous_plant
+8,process physical_process
+16,physical_entity
+14,physical_entity
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+5,tree
+17,physical_entity
+9,thing
+14,physical_entity
+12,physical_entity
+12,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+18,physical_entity
+14,physical_entity
+15,physical_entity
+14,physical_entity
+13,physical_entity
+16,physical_entity
+9,woody_plant ligneous_plant
+7,woody_plant ligneous_plant
+10,vascular_plant tracheophyte
+11,physical_entity
+18,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+10,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+17,physical_entity
+12,physical_entity
+14,physical_entity
+13,physical_entity
+14,whole unit
+17,physical_entity
+13,whole unit
+9,thing
+7,woody_plant ligneous_plant
+17,physical_entity
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+13,whole unit
+11,vascular_plant tracheophyte
+17,physical_entity
+21,physical_entity
+19,physical_entity
+5,woody_plant ligneous_plant
+7,process physical_process
+14,physical_entity
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+5,herb herbaceous_plant
+14,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+16,physical_entity
+17,physical_entity
+19,physical_entity
+19,physical_entity
+16,physical_entity
+18,physical_entity
+5,vascular_plant tracheophyte
+15,whole unit
+15,whole unit
+12,physical_entity
+8,woody_plant ligneous_plant
+3,shrub bush
+18,physical_entity
+4,natural_process natural_action action activity
+3,shrub bush
+4,woody_plant ligneous_plant
+10,vascular_plant tracheophyte
+11,physical_entity
+9,vascular_plant tracheophyte
+18,physical_entity
+12,physical_entity
+16,physical_entity
+14,physical_entity
+20,physical_entity
+11,whole unit
+16,physical_entity
+16,physical_entity
+19,physical_entity
+10,thing
+13,physical_entity
+5,natural_process natural_action action activity
+13,physical_entity
+15,physical_entity
+13,physical_entity
+16,physical_entity
+5,vascular_plant tracheophyte
+14,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+2,natural_process natural_action action activity
+9,tree
+9,vascular_plant tracheophyte
+12,whole unit
+14,whole unit
+19,physical_entity
+18,physical_entity
+12,whole unit
+14,physical_entity
+18,physical_entity
+7,vascular_plant tracheophyte
+3,shrub bush
+14,whole unit
+14,whole unit
+12,physical_entity
+10,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+18,physical_entity
+19,physical_entity
+16,physical_entity
+13,whole unit
+16,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+7,tree
+11,whole unit
+13,physical_entity
+16,physical_entity
+17,physical_entity
+16,physical_entity
+17,physical_entity
+9,natural_object
+17,physical_entity
+18,physical_entity
+15,physical_entity
+16,physical_entity
+19,physical_entity
+18,physical_entity
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+13,whole unit
+13,physical_entity
+18,physical_entity
+20,physical_entity
+9,vascular_plant tracheophyte OR plant flora plant_life
+14,whole unit
+14,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+6,protein
+7,vascular_plant tracheophyte
+18,whole unit
+13,physical_entity
+16,physical_entity
+14,physical_entity
+7,woody_plant ligneous_plant
+7,plant flora plant_life OR vascular_plant tracheophyte
+13,thing
+14,physical_entity
+8,vascular_plant tracheophyte
+5,organ
+4,tree
+8,vascular_plant tracheophyte
+3,tree
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+17,physical_entity
+14,physical_entity
+9,thing
+21,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+5,vascular_plant tracheophyte
+4,woody_plant ligneous_plant
+9,process physical_process
+9,whole unit
+13,physical_entity
+18,physical_entity
+11,physical_entity
+6,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+12,entity
+12,physical_entity
+6,organism being
+12,thing
+15,physical_entity
+16,physical_entity
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,whole unit
+15,whole unit
+16,physical_entity
+4,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+16,physical_entity
+9,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+21,physical_entity
+12,whole unit
+17,physical_entity
+9,vascular_plant tracheophyte
+16,physical_entity
+14,whole unit
+8,vascular_plant tracheophyte
+16,physical_entity
+9,body_part
+17,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+16,whole unit
+13,physical_entity
+16,physical_entity
+15,physical_entity
+10,physical_entity OR whole unit
+5,process physical_process
+18,physical_entity
+13,thing
+18,physical_entity
+6,woody_plant ligneous_plant
+4,herb herbaceous_plant
+13,physical_entity
+5,shrub bush
+19,physical_entity
+7,vascular_plant tracheophyte
+12,physical_entity
+7,woody_plant ligneous_plant
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+5,vascular_plant tracheophyte
+19,physical_entity
+12,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+21,physical_entity
+13,physical_entity
+14,vascular_plant tracheophyte
+17,physical_entity
+15,physical_entity
+12,physical_entity
+19,physical_entity
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+6,herb herbaceous_plant
+15,physical_entity
+16,physical_entity
+13,physical_entity
+12,physical_entity
+13,whole unit
+4,bodily_process body_process bodily_function activity
+13,whole unit
+8,physical_entity
+4,cereal cereal_grass
+7,plant_organ
+12,physical_entity
+19,physical_entity
+12,physical_entity
+11,whole unit
+3,fruit
+6,vascular_plant tracheophyte
+13,whole unit
+14,physical_entity
+7,vascular_plant tracheophyte
+15,physical_entity
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+10,thing
+14,physical_entity
+13,physical_entity
+6,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+6,vascular_plant tracheophyte
+4,part piece
+12,vascular_plant tracheophyte
+17,physical_entity
+15,whole unit
+2,shrub bush
+18,physical_entity
+17,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+17,physical_entity
+14,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+5,natural_object
+13,physical_entity
+21,physical_entity
+8,woody_plant ligneous_plant
+14,thing
+15,physical_entity
+19,physical_entity
+14,physical_entity
+12,physical_entity
+17,physical_entity
+16,physical_entity
+14,physical_entity
+15,physical_entity
+12,natural_object
+17,physical_entity
+16,physical_entity
+19,physical_entity
+12,whole unit
+19,physical_entity
+19,physical_entity
+21,physical_entity
+5,vascular_plant tracheophyte
+18,physical_entity
+7,vascular_plant tracheophyte
+13,natural_object
+18,physical_entity
+9,woody_plant ligneous_plant
+13,physical_entity
+17,physical_entity
+17,physical_entity
+16,physical_entity
+11,whole unit
+5,vascular_plant tracheophyte
+12,whole unit
+5,vascular_plant tracheophyte
+15,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+4,tree
+9,physical_entity
+9,vascular_plant tracheophyte
+12,whole unit
+15,physical_entity
+15,physical_entity
+18,physical_entity
+17,whole unit
+15,physical_entity
+18,physical_entity
+17,physical_entity
+11,whole unit
+13,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+5,woody_plant ligneous_plant
+3,tree
+13,physical_entity
+18,physical_entity
+13,physical_entity
+5,shrub bush
+10,physical_entity
+9,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+15,physical_entity
+16,physical_entity
+20,physical_entity
+15,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+12,thing
+17,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+13,whole unit
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+5,woody_plant ligneous_plant
+9,vascular_plant tracheophyte
+19,physical_entity
+9,thing
+19,physical_entity
+10,body_part
+21,physical_entity
+19,physical_entity
+10,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+9,vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+3,flower
+7,vascular_plant tracheophyte
+15,whole unit
+14,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte OR plant flora plant_life
+7,woody_plant ligneous_plant
+15,physical_entity
+7,vascular_plant tracheophyte
+13,thing
+17,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+6,tree
+14,physical_entity
+4,herb herbaceous_plant
+14,whole unit
+8,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+7,natural_object
+8,vascular_plant tracheophyte
+15,physical_entity
+15,physical_entity
+18,physical_entity
+16,physical_entity
+16,physical_entity
+10,vascular_plant tracheophyte
+10,natural_object
+9,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+5,body_part
+14,physical_entity
+13,physical_entity
+13,physical_entity
+6,body_part
+15,physical_entity
+16,physical_entity
+3,herb herbaceous_plant
+6,tree
+10,vascular_plant tracheophyte
+15,physical_entity
+2,herb herbaceous_plant
+16,whole unit
+15,physical_entity
+18,physical_entity
+15,physical_entity
+10,physical_entity
+17,physical_entity
+15,physical_entity
+14,physical_entity
+10,physical_entity
+16,physical_entity
+7,woody_plant ligneous_plant
+13,physical_entity
+6,vascular_plant tracheophyte
+14,physical_entity
+5,shrub bush
+7,vascular_plant tracheophyte
+13,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+11,physical_entity
+15,physical_entity
+12,vascular_plant tracheophyte
+7,unit building_block
+20,physical_entity
+5,vascular_plant tracheophyte
+16,physical_entity
+11,body_part
+7,woody_plant ligneous_plant
+18,physical_entity
+5,bulbous_plant
+10,vascular_plant tracheophyte OR plant flora plant_life
+12,physical_entity
+14,whole unit
+8,natural_object
+12,physical_entity
+11,physical_entity
+15,thing
+13,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+10,physical_entity
+19,physical_entity
+14,physical_entity
+18,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+5,body_part
+8,vascular_plant tracheophyte
+22,physical_entity
+6,vascular_plant tracheophyte
+20,physical_entity
+3,skeletal_muscle striated_muscle
+9,whole unit
+18,physical_entity
+13,physical_entity
+22,physical_entity
+6,organism being
+8,process physical_process
+7,woody_plant ligneous_plant
+18,physical_entity
+13,whole unit
+17,physical_entity
+20,physical_entity
+3,tree
+7,plant_organ
+8,thing
+13,physical_entity
+14,whole unit
+8,vascular_plant tracheophyte
+14,physical_entity
+12,physical_entity
+8,vascular_plant tracheophyte
+9,body_part
+3,herb herbaceous_plant
+16,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+4,plant flora plant_life
+17,physical_entity
+14,physical_entity
+11,physical_entity
+12,physical_entity
+18,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+11,vascular_plant tracheophyte
+3,herb herbaceous_plant
+18,physical_entity
+17,physical_entity
+7,organism being
+15,physical_entity
+19,physical_entity
+13,whole unit
+14,whole unit
+12,thing
+11,physical_entity
+14,physical_entity
+17,physical_entity
+12,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+12,physical_entity
+19,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+17,physical_entity
+18,physical_entity
+12,process physical_process
+20,physical_entity
+18,physical_entity
+4,tree
+11,thing
+13,physical_entity
+7,woody_plant ligneous_plant
+20,physical_entity
+18,physical_entity
+11,whole unit
+15,physical_entity
+16,physical_entity
+12,physical_entity
+13,physical_entity
+13,physical_entity
+7,woody_plant ligneous_plant
+13,physical_entity
+17,physical_entity
+19,physical_entity
+18,physical_entity
+14,physical_entity
+16,physical_entity
+12,process physical_process
+17,physical_entity
+16,physical_entity
+17,physical_entity
+11,body_part
+9,vascular_plant tracheophyte
+13,physical_entity
+7,vascular_plant tracheophyte
+20,physical_entity
+9,whole unit
+19,physical_entity
+16,physical_entity
+13,physical_entity
+6,tree
+11,physical_entity
+18,physical_entity
+18,physical_entity
+14,physical_entity
+16,physical_entity
+14,physical_entity
+17,physical_entity
+8,vascular_plant tracheophyte
+9,natural_object
+18,physical_entity
+17,physical_entity
+16,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+3,herb herbaceous_plant
+10,physical_entity
+8,vascular_plant tracheophyte
+8,natural_object
+12,thing
+18,physical_entity
+9,vascular_plant tracheophyte
+14,whole unit
+19,physical_entity
+13,whole unit
+12,vascular_plant tracheophyte
+16,physical_entity
+5,tree
+4,vascular_plant tracheophyte
+16,whole unit
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+14,physical_entity
+14,physical_entity
+11,whole unit
+6,tree
+6,hair
+17,physical_entity
+15,physical_entity
+16,physical_entity
+11,thing
+13,physical_entity
+7,woody_plant ligneous_plant
+14,physical_entity
+7,vascular_plant tracheophyte
+3,herb herbaceous_plant
+5,woody_plant ligneous_plant
+5,herb herbaceous_plant
+18,physical_entity
+8,organism being
+5,vascular_plant tracheophyte
+15,physical_entity
+12,thing
+9,vascular_plant tracheophyte
+4,angiospermous_tree flowering_tree
+14,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+6,herb herbaceous_plant
+18,physical_entity
+9,vascular_plant tracheophyte
+14,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+4,herb herbaceous_plant
+14,whole unit
+4,woody_plant ligneous_plant
+11,vascular_plant tracheophyte OR plant flora plant_life
+7,woody_plant ligneous_plant
+5,woody_plant ligneous_plant
+13,physical_entity
+16,physical_entity
+13,thing
+17,whole unit
+13,physical_entity
+16,physical_entity
+1,condensation condensate
+15,whole unit
+19,physical_entity
+7,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+16,physical_entity
+5,organism being
+20,physical_entity
+5,herb herbaceous_plant
+9,thing
+6,woody_plant ligneous_plant
+15,whole unit
+7,vascular_plant tracheophyte
+6,tree
+9,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+10,vascular_plant tracheophyte
+20,physical_entity
+13,physical_entity
+9,thing
+18,physical_entity
+3,flower
+16,physical_entity
+5,woody_plant ligneous_plant
+20,physical_entity
+21,physical_entity
+9,vascular_plant tracheophyte
+13,whole unit
+18,physical_entity
+8,vascular_plant tracheophyte
+20,physical_entity
+10,vascular_plant tracheophyte
+13,physical_entity
+14,physical_entity
+21,physical_entity
+16,physical_entity
+19,physical_entity
+13,thing
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+4,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+17,physical_entity
+9,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+10,physical_entity
+16,physical_entity
+2,herb herbaceous_plant
+8,vascular_plant tracheophyte OR plant flora plant_life
+14,thing
+7,vascular_plant tracheophyte
+18,physical_entity
+12,thing
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+4,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+6,vascular_plant tracheophyte
+8,physical_entity
+14,physical_entity
+20,physical_entity
+15,physical_entity
+22,physical_entity
+11,whole unit
+7,vascular_plant tracheophyte
+11,physical_entity
+6,vascular_plant tracheophyte
+22,physical_entity
+13,whole unit
+15,physical_entity
+5,shrub bush
+17,physical_entity
+6,vascular_plant tracheophyte
+12,whole unit
+9,physical_entity
+14,physical_entity
+19,physical_entity
+6,plant_part plant_structure
+18,physical_entity
+9,vascular_plant tracheophyte
+5,shrub bush
+3,herb herbaceous_plant
+17,physical_entity
+14,physical_entity
+5,thing
+12,body_part
+14,physical_entity
+9,vascular_plant tracheophyte
+16,physical_entity
+4,shrub bush
+18,physical_entity
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+8,plant flora plant_life OR vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+13,whole unit
+21,physical_entity
+12,physical_entity
+16,physical_entity
+9,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+18,physical_entity
+11,process physical_process
+11,thing
+16,physical_entity
+8,woody_plant ligneous_plant
+16,whole unit
+8,body_part
+16,physical_entity
+16,physical_entity
+14,physical_entity
+18,physical_entity
+10,whole unit
+8,vascular_plant tracheophyte
+12,thing
+17,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+6,angiosperm flowering_plant
+9,whole unit
+10,whole unit
+9,process physical_process
+8,vascular_plant tracheophyte
+15,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+7,vascular_plant tracheophyte
+9,woody_plant ligneous_plant
+17,physical_entity
+16,physical_entity
+12,whole unit
+8,woody_plant ligneous_plant
+4,herb herbaceous_plant
+16,physical_entity
+6,vascular_plant tracheophyte
+15,physical_entity
+6,woody_plant ligneous_plant
+14,physical_entity
+9,physical_entity
+10,physical_entity
+18,physical_entity
+15,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte
+19,physical_entity
+19,physical_entity
+19,physical_entity
+6,herb herbaceous_plant
+7,vascular_plant tracheophyte
+17,physical_entity
+13,physical_entity
+15,whole unit
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+4,vascular_plant tracheophyte
+13,physical_entity
+19,physical_entity
+6,vascular_plant tracheophyte
+6,physical_entity
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+13,physical_entity
+5,tree
+18,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+14,physical_entity
+12,whole unit
+7,vascular_plant tracheophyte
+20,physical_entity
+19,physical_entity
+7,woody_plant ligneous_plant
+17,physical_entity
+6,body_part
+13,physical_entity
+11,vascular_plant tracheophyte
+6,process physical_process
+15,physical_entity
+11,whole unit
+12,thing
+14,physical_entity
+6,plant flora plant_life OR vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+18,physical_entity
+4,vascular_plant tracheophyte
+18,physical_entity
+5,tree
+14,physical_entity
+14,physical_entity
+18,physical_entity
+7,woody_plant ligneous_plant
+13,physical_entity
+16,physical_entity
+20,physical_entity
+7,vascular_plant tracheophyte
+11,physical_entity
+19,physical_entity
+16,physical_entity
+15,physical_entity
+14,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+14,whole unit
+5,vascular_plant tracheophyte
+10,physical_entity
+14,whole unit
+7,vascular_plant tracheophyte OR plant flora plant_life
+13,physical_entity
+8,vascular_plant tracheophyte
+8,thing
+7,vascular_plant tracheophyte
+15,physical_entity
+9,physical_entity
+17,physical_entity
+12,physical_entity
+10,physical_entity
+18,physical_entity
+5,woody_plant ligneous_plant
+11,thing
+14,physical_entity
+22,physical_entity
+8,body_part
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+9,physical_entity
+19,physical_entity
+12,physical_entity
+15,physical_entity
+13,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+12,process physical_process
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+9,body_part
+7,vascular_plant tracheophyte OR plant flora plant_life
+12,physical_entity
+7,angiosperm flowering_plant
+18,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+15,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+7,tree
+8,vascular_plant tracheophyte
+18,physical_entity
+16,whole unit
+13,whole unit
+13,physical_entity
+19,physical_entity
+8,physical_entity
+11,whole unit
+5,physical_phenomenon
+20,physical_entity
+19,physical_entity
+8,thing
+12,whole unit
+9,thing
+9,vascular_plant tracheophyte
+19,physical_entity
+17,physical_entity
+17,physical_entity
+18,physical_entity
+16,physical_entity
+10,vascular_plant tracheophyte
+15,physical_entity
+7,woody_plant ligneous_plant
+17,physical_entity
+14,physical_entity
+7,tree
+5,herb herbaceous_plant
+8,physical_entity
+15,physical_entity
+17,physical_entity
+13,physical_entity
+9,vascular_plant tracheophyte
+12,physical_entity
+16,physical_entity
+10,thing
+5,woody_plant ligneous_plant
+7,woody_plant ligneous_plant
+15,physical_entity
+17,physical_entity
+16,physical_entity
+15,physical_entity
+16,physical_entity
+15,whole unit
+8,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+15,physical_entity
+6,tree
+10,physical_entity
+7,vascular_plant tracheophyte
+5,physical_phenomenon
+20,whole unit
+13,physical_entity
+17,physical_entity
+13,physical_entity
+13,whole unit
+15,physical_entity
+14,whole unit
+4,shrub bush
+13,whole unit
+3,herb herbaceous_plant
+6,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+4,herb herbaceous_plant
+3,vascular_plant tracheophyte
+15,physical_entity
+3,herb herbaceous_plant
+12,whole unit
+11,whole unit
+11,whole unit
+5,tree
+13,physical_entity
+5,plant_organ
+17,physical_entity
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+11,whole unit
+13,whole unit
+12,physical_entity
+15,whole unit
+16,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+7,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+17,physical_entity
+15,physical_entity
+22,physical_entity
+14,physical_entity
+8,woody_plant ligneous_plant
+5,organ
+7,vascular_plant tracheophyte
+16,physical_entity
+3,shrub bush
+16,whole unit
+19,physical_entity
+13,whole unit
+14,physical_entity
+18,physical_entity
+17,physical_entity
+13,physical_entity
+3,shrub bush
+20,physical_entity
+18,physical_entity
+9,process physical_process
+15,physical_entity
+7,vascular_plant tracheophyte
+7,thing
+23,physical_entity
+16,physical_entity
+17,physical_entity
+16,physical_entity
+11,physical_entity
+13,physical_entity
+12,physical_entity
+7,body_part
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+17,physical_entity
+18,physical_entity
+14,physical_entity
+18,physical_entity
+19,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+3,herb herbaceous_plant
+8,whole unit
+9,vascular_plant tracheophyte
+17,physical_entity
+13,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+12,physical_entity
+11,physical_entity
+19,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+11,vascular_plant tracheophyte
+4,vine
+2,herb herbaceous_plant
+11,vascular_plant tracheophyte
+16,physical_entity
+7,vascular_plant tracheophyte
+13,physical_entity
+14,physical_entity
+18,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+12,physical_entity
+5,vascular_plant tracheophyte
+15,physical_entity
+12,physical_entity
+9,physical_entity
+8,vascular_plant tracheophyte
+13,whole unit
+5,vine
+15,whole unit
+17,physical_entity
+15,physical_entity
+16,physical_entity
+7,woody_plant ligneous_plant
+4,shrub bush
+7,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+15,physical_entity
+19,physical_entity
+16,physical_entity
+7,woody_plant ligneous_plant
+16,physical_entity
+5,woody_plant ligneous_plant
+10,physical_entity
+11,physical_entity
+16,physical_entity
+10,process physical_process
+6,vascular_plant tracheophyte
+15,physical_entity
+13,whole unit
+9,vascular_plant tracheophyte
+6,natural_object
+15,physical_entity
+5,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+16,physical_entity
+12,natural_object
+15,physical_entity
+12,physical_entity
+5,shrub bush
+17,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+9,body_part
+4,herb herbaceous_plant
+15,physical_entity
+20,physical_entity
+10,physical_entity
+18,physical_entity
+14,physical_entity
+18,physical_entity
+18,physical_entity
+8,body_part
+19,physical_entity
+16,physical_entity
+15,physical_entity
+11,physical_entity
+14,whole unit
+8,vascular_plant tracheophyte
+11,whole unit
+16,physical_entity
+17,physical_entity
+8,tree
+14,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+3,tree
+18,physical_entity
+7,vascular_plant tracheophyte OR plant flora plant_life
+18,physical_entity
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+6,plant_organ
+4,tree
+16,physical_entity
+19,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+10,physical_entity
+15,physical_entity
+16,physical_entity
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+13,physical_entity
+11,physical_entity
+11,physical_entity
+17,physical_entity
+20,physical_entity
+8,vascular_plant tracheophyte
+6,plant flora plant_life OR vascular_plant tracheophyte
+15,physical_entity
+3,herb herbaceous_plant
+16,physical_entity
+21,physical_entity
+18,physical_entity
+15,physical_entity
+4,herb herbaceous_plant
+14,physical_entity
+7,thing
+18,physical_entity
+3,herb herbaceous_plant
+13,whole unit
+13,physical_entity
+5,vascular_plant tracheophyte
+20,physical_entity
+3,shrub bush
+18,physical_entity
+5,vascular_plant tracheophyte
+14,physical_entity
+3,tree
+17,physical_entity
+5,vascular_plant tracheophyte
+6,process physical_process
+16,physical_entity
+16,physical_entity
+14,physical_entity
+12,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+13,physical_entity
+10,whole unit
+16,physical_entity
+19,physical_entity
+12,thing
+17,physical_entity
+16,physical_entity
+7,vascular_plant tracheophyte
+21,physical_entity
+11,physical_entity
+15,physical_entity
+14,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+5,body_part
+15,physical_entity
+18,physical_entity
+14,physical_entity
+15,physical_entity
+13,physical_entity
+20,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+12,thing
+17,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+11,vascular_plant tracheophyte
+15,physical_entity
+11,thing
+14,whole unit
+7,vascular_plant tracheophyte
+3,tree
+16,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+14,whole unit
+9,vascular_plant tracheophyte
+12,vascular_plant tracheophyte
+18,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+7,vascular_plant tracheophyte
+12,whole unit
+14,whole unit
+15,whole unit
+15,physical_entity
+14,physical_entity
+15,physical_entity
+16,physical_entity
+17,physical_entity
+16,physical_entity
+14,physical_entity
+13,physical_entity
+16,physical_entity
+14,physical_entity
+14,physical_entity
+18,physical_entity
+16,physical_entity
+18,physical_entity
+15,physical_entity
+4,tree
+11,whole unit
+6,vascular_plant tracheophyte
+22,physical_entity
+16,physical_entity
+18,physical_entity
+14,thing
+14,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+13,physical_entity
+15,physical_entity
+16,physical_entity
+10,physical_entity
+14,physical_entity
+13,physical_entity
+10,physical_entity
+8,vascular_plant tracheophyte
+10,whole unit
+4,woody_plant ligneous_plant
+17,physical_entity
+16,physical_entity
+14,physical_entity
+17,physical_entity
+13,physical_entity
+19,physical_entity
+5,woody_plant ligneous_plant
+16,physical_entity
+6,body_of_water water
+6,woody_plant ligneous_plant
+11,whole unit
+15,whole unit
+10,thing
+18,physical_entity
+16,physical_entity
+19,physical_entity
+13,physical_entity
+11,physical_entity
+16,physical_entity
+12,physical_entity
+9,woody_plant ligneous_plant
+19,physical_entity
+15,physical_entity
+8,body_part
+7,vascular_plant tracheophyte
+7,plant flora plant_life OR vascular_plant tracheophyte
+12,whole unit
+11,whole unit
+8,vascular_plant tracheophyte
+13,physical_entity
+18,physical_entity
+17,whole unit
+12,physical_entity
+4,woody_plant ligneous_plant
+10,physical_entity
+17,physical_entity
+13,physical_entity
+15,physical_entity
+19,physical_entity
+10,physical_entity
+15,physical_entity
+5,vascular_plant tracheophyte
+4,vascular_plant tracheophyte
+7,woody_plant ligneous_plant
+8,body_part
+22,physical_entity
+20,physical_entity
+10,physical_entity
+5,woody_plant ligneous_plant
+12,physical_entity
+15,physical_entity
+8,herb herbaceous_plant
+8,physical_entity
+17,physical_entity
+16,physical_entity
+2,herb herbaceous_plant
+13,physical_entity
+10,natural_object
+11,body_part
+8,vascular_plant tracheophyte
+17,physical_entity
+17,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+10,physical_entity
+14,physical_entity
+11,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+16,physical_entity
+5,vascular_plant tracheophyte
+19,physical_entity
+7,vascular_plant tracheophyte
+11,whole unit
+13,physical_entity
+9,vascular_plant tracheophyte
+11,physical_entity
+16,physical_entity
+10,physical_entity
+11,whole unit
+9,vascular_plant tracheophyte
+7,physical_phenomenon
+7,vascular_plant tracheophyte
+14,physical_entity
+8,vascular_plant tracheophyte
+19,physical_entity
+20,physical_entity
+7,woody_plant ligneous_plant
+13,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+13,physical_entity
+13,whole unit
+18,physical_entity
+15,whole unit
+7,vascular_plant tracheophyte
+16,whole unit
+5,vascular_plant tracheophyte
+16,physical_entity
+12,physical_entity
+9,vascular_plant tracheophyte
+17,physical_entity
+10,whole unit
+14,physical_entity
+10,thing
+12,thing
+10,physical_entity
+9,vascular_plant tracheophyte
+12,body_part
+3,shrub bush
+13,physical_entity
+2,pine pine_tree true_pine
+13,body_part
+12,physical_entity
+20,physical_entity
+13,whole unit
+13,physical_entity
+2,shrub bush
+16,physical_entity
+12,body_part
+8,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+15,physical_entity
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+11,thing
+16,physical_entity
+18,physical_entity
+6,vascular_plant tracheophyte
+15,physical_entity
+17,physical_entity
+2,river
+11,physical_entity
+11,physical_entity
+15,physical_entity
+16,physical_entity
+9,vascular_plant tracheophyte
+19,physical_entity
+6,vascular_plant tracheophyte
+15,physical_entity
+16,physical_entity
+20,physical_entity
+13,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+15,whole unit
+15,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+17,physical_entity
+13,physical_entity
+16,physical_entity
+14,whole unit
+10,vascular_plant tracheophyte
+15,physical_entity
+20,physical_entity
+16,physical_entity
+14,physical_entity
+11,thing OR physical_entity
+5,sense_organ sensory_receptor receptor
+2,vein vena venous_blood_vessel
+14,whole unit
+21,physical_entity
+14,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+15,thing
+9,vascular_plant tracheophyte
+15,whole unit
+18,physical_entity
+7,body_part
+12,whole unit
+8,vascular_plant tracheophyte
+6,natural_object
+12,physical_entity
+15,physical_entity
+4,herb herbaceous_plant
+4,woody_plant ligneous_plant
+17,physical_entity
+6,herb herbaceous_plant
+14,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+8,plant flora plant_life OR vascular_plant tracheophyte
+7,body_part
+15,physical_entity
+18,whole unit
+15,physical_entity
+15,whole unit
+13,physical_entity
+18,physical_entity
+17,physical_entity
+10,vascular_plant tracheophyte
+11,structure anatomical_structure complex_body_part bodily_structure body_structure
+8,thing
+5,conifer coniferous_tree OR tree
+19,physical_entity
+15,physical_entity
+15,physical_entity
+6,vascular_plant tracheophyte
+17,physical_entity
+9,thing
+8,organism being
+5,organism being
+14,physical_entity
+17,whole unit
+8,vascular_plant tracheophyte
+20,physical_entity
+8,body_part
+20,physical_entity
+10,physical_entity
+16,physical_entity
+13,physical_entity
+6,process physical_process
+7,vascular_plant tracheophyte
+15,physical_entity
+16,physical_entity
+21,physical_entity
+14,physical_entity
+9,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+10,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+10,physical_entity
+17,physical_entity
+15,physical_entity
+9,process physical_process
+10,physical_entity
+3,cavity bodily_cavity cavum
+15,physical_entity
+10,vascular_plant tracheophyte
+20,physical_entity
+3,herb herbaceous_plant
+13,whole unit
+14,physical_entity
+15,physical_entity
+19,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+13,physical_entity
+14,physical_entity
+12,physical_entity
+8,vascular_plant tracheophyte
+14,physical_entity
+4,organism being
+16,physical_entity
+13,body_part
+6,vascular_plant tracheophyte
+4,herb herbaceous_plant
+14,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+5,body_of_water water
+3,herb herbaceous_plant
+14,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+16,physical_entity
+6,woody_plant ligneous_plant
+11,whole unit
+14,physical_entity
+18,physical_entity
+8,macromolecule supermolecule
+15,physical_entity
+12,physical_entity
+14,physical_entity
+20,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+7,herb herbaceous_plant
+7,vascular_plant tracheophyte
+15,physical_entity
+18,physical_entity
+6,process physical_process
+6,tree
+6,vascular_plant tracheophyte
+7,plant flora plant_life OR vascular_plant tracheophyte
+20,physical_entity
+5,angiosperm flowering_plant
+18,physical_entity
+14,physical_entity
+12,physical_entity
+13,physical_entity
+9,vascular_plant tracheophyte
+6,tree
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+4,woody_plant ligneous_plant
+17,physical_entity
+16,physical_entity
+17,physical_entity
+19,physical_entity
+14,physical_entity
+5,vascular_plant tracheophyte
+13,physical_entity
+9,body_part
+14,physical_entity
+16,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+8,vascular_plant tracheophyte
+15,physical_entity
+11,physical_entity
+8,natural_object
+17,physical_entity
+14,physical_entity
+19,physical_entity
+13,physical_entity
+16,physical_entity
+14,physical_entity
+14,whole unit
+7,vascular_plant tracheophyte
+5,herb herbaceous_plant
+10,body_part
+4,tree
+19,physical_entity
+7,vascular_plant tracheophyte OR plant flora plant_life
+18,physical_entity
+15,physical_entity
+16,physical_entity
+14,physical_entity
+15,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte
+23,physical_entity
+11,physical_entity
+7,vascular_plant tracheophyte
+5,herb herbaceous_plant
+7,vascular_plant tracheophyte
+15,whole unit
+15,physical_entity
+9,physical_entity
+3,orchid orchidaceous_plant
+8,vascular_plant tracheophyte
+13,physical_entity
+17,physical_entity
+3,herb herbaceous_plant
+19,physical_entity
+16,physical_entity
+19,physical_entity
+17,physical_entity
+6,vascular_plant tracheophyte
+6,tree
+17,physical_entity
+19,physical_entity
+19,physical_entity
+14,whole unit
+10,body_part
+12,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+13,physical_entity
+14,physical_entity
+8,body_part
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+6,tree
+17,physical_entity
+17,physical_entity
+13,physical_entity
+14,physical_entity
+17,physical_entity
+14,physical_entity
+5,tree
+16,physical_entity
+19,physical_entity
+11,vascular_plant tracheophyte
+14,physical_entity
+19,physical_entity
+8,body_part
+16,physical_entity
+16,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+17,physical_entity
+14,physical_entity
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,tree
+13,physical_entity
+17,whole unit
+17,physical_entity
+11,part piece
+5,vascular_plant tracheophyte
+16,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+14,physical_entity
+11,thing
+18,physical_entity
+9,physical_entity
+13,physical_entity
+13,physical_entity
+18,physical_entity
+10,physical_entity
+14,physical_entity
+17,physical_entity
+12,physical_entity
+9,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+18,whole unit
+15,physical_entity
+10,physical_entity
+9,physical_entity
+10,physical_entity
+12,physical_entity
+4,shrub bush
+6,plant flora plant_life OR vascular_plant tracheophyte
+20,physical_entity
+9,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+20,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+16,physical_entity
+16,physical_entity
+13,physical_entity
+12,physical_entity
+16,physical_entity
+11,vascular_plant tracheophyte
+17,physical_entity
+9,vascular_plant tracheophyte
+5,natural_object
+15,physical_entity
+6,angiosperm flowering_plant
+11,physical_entity
+16,physical_entity
+9,vascular_plant tracheophyte
+17,physical_entity
+14,physical_entity
+14,physical_entity
+13,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+7,vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+14,whole unit
+8,vascular_plant tracheophyte
+16,physical_entity
+11,whole unit
+13,physical_entity
+13,whole unit
+10,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+13,physical_entity
+19,physical_entity
+9,vascular_plant tracheophyte
+6,body_part
+14,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+16,physical_entity
+11,vascular_plant tracheophyte
+16,whole unit
+20,physical_entity
+16,physical_entity
+11,physical_entity
+19,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+17,physical_entity
+14,physical_entity
+10,whole unit
+8,woody_plant ligneous_plant
+16,physical_entity
+6,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+11,physical_entity
+12,whole unit
+8,structure anatomical_structure complex_body_part bodily_structure body_structure
+13,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+10,vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+12,physical_entity
+5,vascular_plant tracheophyte
+13,whole unit
+18,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+12,physical_entity
+15,physical_entity
+17,physical_entity
+14,physical_entity
+6,vascular_plant tracheophyte
+20,physical_entity
+5,vascular_plant tracheophyte
+12,physical_entity
+7,process physical_process
+14,physical_entity
+11,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+10,physical_entity
+15,whole unit
+9,physical_entity
+12,physical_entity
+12,physical_entity
+5,woody_plant ligneous_plant
+3,herb herbaceous_plant
+13,physical_entity
+16,physical_entity
+14,physical_entity
+14,physical_entity
+16,physical_entity
+4,shrub bush
+18,physical_entity
+7,organism being
+19,physical_entity
+13,physical_entity
+15,whole unit
+7,vascular_plant tracheophyte
+12,physical_entity
+8,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+19,physical_entity
+11,whole unit
+12,physical_entity
+15,whole unit
+10,thing
+20,physical_entity
+13,physical_entity
+16,physical_entity
+13,physical_entity
+15,physical_entity
+16,physical_entity
+6,vascular_plant tracheophyte
+12,physical_entity
+6,natural_object
+22,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+12,physical_entity
+11,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+19,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+8,vascular_plant tracheophyte
+20,physical_entity
+15,physical_entity
+17,physical_entity
+21,physical_entity
+15,physical_entity
+13,physical_entity
+14,physical_entity
+18,physical_entity
+13,whole unit
+19,physical_entity
+16,physical_entity
+16,physical_entity
+12,physical_entity
+16,physical_entity
+17,physical_entity
+8,vascular_plant tracheophyte
+11,physical_entity
+10,physical_entity
+11,whole unit
+14,whole unit
+15,physical_entity
+13,physical_entity
+14,whole unit
+9,physical_entity
+9,vascular_plant tracheophyte
+12,physical_entity
+16,physical_entity
+16,physical_entity
+17,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+7,vascular_plant tracheophyte
+7,process physical_process
+7,vascular_plant tracheophyte
+9,physical_entity
+18,physical_entity
+18,physical_entity
+14,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+4,herb herbaceous_plant
+17,physical_entity
+15,physical_entity
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+17,physical_entity
+3,herb herbaceous_plant
+7,woody_plant ligneous_plant
+14,thing
+8,physical_phenomenon OR natural_process natural_action action activity
+4,shrub bush
+19,physical_entity
+4,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+13,physical_entity
+8,woody_plant ligneous_plant
+16,physical_entity
+8,natural_object
+18,physical_entity
+11,whole unit
+14,physical_entity
+18,physical_entity
+15,physical_entity
+17,physical_entity
+5,vascular_plant tracheophyte
+19,physical_entity
+7,vascular_plant tracheophyte
+10,physical_entity
+13,physical_entity
+12,physical_entity
+9,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+10,physical_entity
+15,physical_entity
+16,whole unit
+9,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+13,entity
+13,physical_entity
+11,process physical_process
+10,body_part
+17,physical_entity
+6,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+11,physical_entity
+8,vascular_plant tracheophyte
+11,whole unit
+17,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+19,physical_entity
+8,physical_phenomenon
+7,vascular_plant tracheophyte
+14,whole unit
+15,whole unit
+15,physical_entity
+10,whole unit
+15,whole unit
+7,woody_plant ligneous_plant
+21,physical_entity
+13,whole unit
+9,vascular_plant tracheophyte
+23,physical_entity
+11,physical_entity
+7,woody_plant ligneous_plant
+20,physical_entity
+5,woody_plant ligneous_plant
+18,physical_entity
+15,physical_entity
+10,body_part
+7,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+16,physical_entity
+4,shrub bush
+16,physical_entity
+12,physical_entity
+5,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+18,physical_entity
+15,physical_entity
+15,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+18,physical_entity
+19,physical_entity
+5,herb herbaceous_plant
+7,tree
+10,natural_object
+12,physical_entity
+11,whole unit
+14,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+11,thing
+19,physical_entity
+8,vascular_plant tracheophyte
+20,physical_entity
+8,vascular_plant tracheophyte
+18,physical_entity
+8,thing
+11,whole unit
+11,physical_entity
+10,vascular_plant tracheophyte OR plant flora plant_life
+6,angiosperm flowering_plant
+5,herb herbaceous_plant
+5,herb herbaceous_plant
+7,vascular_plant tracheophyte
+4,shrub bush
+12,physical_entity
+15,physical_entity
+5,woody_plant ligneous_plant
+2,liliaceous_plant
+11,whole unit
+7,body_part
+7,vascular_plant tracheophyte
+14,physical_entity
+6,natural_object
+8,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+14,physical_entity
+18,physical_entity
+10,whole unit
+14,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+15,physical_entity
+4,conifer coniferous_tree
+16,physical_entity
+17,physical_entity
+18,physical_entity
+13,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+15,physical_entity
+6,vascular_plant tracheophyte
+15,physical_entity
+18,physical_entity
+4,herb herbaceous_plant
+11,whole unit
+17,physical_entity
+15,physical_entity
+16,physical_entity
+9,thing
+8,body_part
+15,physical_entity
+11,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+11,whole unit
+8,herb herbaceous_plant
+14,whole unit
+18,physical_entity
+15,physical_entity
+14,physical_entity
+17,physical_entity
+20,physical_entity
+22,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+14,physical_entity
+13,physical_entity
+16,physical_entity
+4,woody_plant ligneous_plant
+14,physical_entity
+15,physical_entity
+5,vascular_plant tracheophyte
+22,physical_entity
+6,body_part
+13,physical_entity
+9,vascular_plant tracheophyte
+13,physical_entity
+12,physical_entity
+6,vascular_plant tracheophyte
+9,physical_entity
+7,vascular_plant tracheophyte
+13,whole unit
+10,physical_entity
+14,physical_entity
+18,physical_entity
+6,natural_object
+14,physical_entity
+6,herb herbaceous_plant
+14,physical_entity
+9,vascular_plant tracheophyte
+18,physical_entity
+11,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+18,physical_entity
+17,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+7,structure anatomical_structure complex_body_part bodily_structure body_structure
+13,physical_entity
+13,physical_entity
+5,body_of_water water
+16,physical_entity
+15,physical_entity
+16,physical_entity
+15,physical_entity
+13,physical_entity
+16,whole unit
+6,process physical_process
+14,physical_entity
+13,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+7,organ
+13,physical_entity
+12,whole unit
+12,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+7,structure anatomical_structure complex_body_part bodily_structure body_structure
+12,whole unit
+16,physical_entity
+8,thing
+17,physical_entity
+11,whole unit
+18,physical_entity
+11,physical_entity
+7,tree
+12,physical_entity
+18,physical_entity
+16,physical_entity
+15,physical_entity
+18,physical_entity
+12,whole unit
+5,vascular_plant tracheophyte
+6,angiosperm flowering_plant
+7,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+8,process physical_process
+16,physical_entity
+11,whole unit
+18,physical_entity
+8,woody_plant ligneous_plant
+14,thing
+6,vascular_plant tracheophyte
+4,angiosperm flowering_plant
+15,physical_entity
+4,shrub bush
+8,vascular_plant tracheophyte
+18,physical_entity
+13,whole unit
+7,tree
+12,body_part
+18,physical_entity
+11,whole unit
+7,woody_plant ligneous_plant
+6,vascular_plant tracheophyte
+17,physical_entity
+8,vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+18,physical_entity
+8,vascular_plant tracheophyte
+8,process physical_process
+6,vascular_plant tracheophyte
+7,plant flora plant_life OR vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+16,physical_entity
+15,physical_entity
+18,physical_entity
+3,herb herbaceous_plant
+4,angiosperm flowering_plant
+16,physical_entity
+15,thing
+9,animal_tissue
+17,physical_entity
+14,physical_entity
+11,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,process physical_process
+4,plum plum_tree
+19,physical_entity
+18,physical_entity
+21,physical_entity
+13,physical_entity
+7,plant flora plant_life OR vascular_plant tracheophyte
+14,physical_entity
+7,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+13,whole unit
+12,whole unit
+7,woody_plant ligneous_plant
+13,whole unit
+6,vascular_plant tracheophyte
+15,whole unit
+19,physical_entity
+12,whole unit
+10,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+3,natural_process natural_action action activity
+13,physical_entity
+9,vascular_plant tracheophyte OR plant flora plant_life
+9,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+16,physical_entity
+11,physical_entity
+15,physical_entity
+9,vascular_plant tracheophyte
+15,physical_entity
+6,vascular_plant tracheophyte
+16,physical_entity
+16,physical_entity
+10,whole unit
+18,physical_entity
+13,physical_entity
+11,physical_entity
+16,physical_entity
+19,physical_entity
+2,tree
+17,physical_entity
+19,physical_entity
+19,physical_entity
+12,physical_entity
+7,vascular_plant tracheophyte
+17,physical_entity
+16,physical_entity
+12,physical_entity
+11,vascular_plant tracheophyte
+9,physical_entity
+6,vascular_plant tracheophyte
+7,unit building_block
+13,physical_entity
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+14,physical_entity
+9,vascular_plant tracheophyte
+10,thing
+10,vascular_plant tracheophyte
+6,woody_plant ligneous_plant
+4,tree
+20,physical_entity
+18,physical_entity
+6,vascular_plant tracheophyte
+18,physical_entity
+14,physical_entity
+16,physical_entity
+17,physical_entity
+4,angiospermous_tree flowering_tree
+16,physical_entity
+9,vascular_plant tracheophyte
+14,thing
+6,tree
+9,vascular_plant tracheophyte
+19,physical_entity
+17,physical_entity
+17,physical_entity
+11,whole unit
+13,physical_entity
+12,physical_entity
+14,physical_entity
+14,physical_entity
+17,physical_entity
+16,physical_entity
+14,physical_entity
+11,physical_entity
+8,vascular_plant tracheophyte
+11,vascular_plant tracheophyte
+15,whole unit
+15,physical_entity
+13,vascular_plant tracheophyte
+6,thing
+11,whole unit
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+18,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+11,physical_entity
+7,vascular_plant tracheophyte
+14,whole unit
+17,physical_entity
+18,physical_entity
+17,physical_entity
+5,herb herbaceous_plant
+10,thing
+16,physical_entity
+8,vascular_plant tracheophyte
+17,physical_entity
+14,physical_entity
+4,shrub bush
+10,physical_entity
+13,whole unit
+14,physical_entity
+8,vascular_plant tracheophyte
+13,physical_entity
+14,physical_entity
+17,physical_entity
+12,physical_entity
+10,physical_entity
+11,physical_entity
+6,woody_plant ligneous_plant
+8,vascular_plant tracheophyte
+14,whole unit
+16,physical_entity
+20,physical_entity
+10,physical_entity
+18,physical_entity
+18,physical_entity
+6,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+19,physical_entity
+14,whole unit
+3,vine
+19,physical_entity
+17,physical_entity
+16,physical_entity
+10,physical_entity
+18,physical_entity
+14,physical_entity
+18,physical_entity
+15,physical_entity
+10,vascular_plant tracheophyte
+14,physical_entity
+10,vascular_plant tracheophyte
+19,physical_entity
+15,physical_entity
+5,woody_plant ligneous_plant
+7,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+16,physical_entity
+10,whole unit
+21,physical_entity
+19,physical_entity
+19,physical_entity
+17,physical_entity
+3,fern
+11,physical_entity
+16,physical_entity
+15,whole unit
+9,vascular_plant tracheophyte
+15,physical_entity
+13,physical_entity
+19,physical_entity
+11,vascular_plant tracheophyte
+14,physical_entity
+8,physical_entity
+7,molecule
+15,physical_entity
+5,herb herbaceous_plant
+15,physical_entity
+17,physical_entity
+9,vascular_plant tracheophyte
+16,physical_entity
+7,vascular_plant tracheophyte
+20,physical_entity
+16,physical_entity
+10,body_part
+21,physical_entity
+10,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+15,physical_entity
+12,physical_entity
+2,vein vena venous_blood_vessel
+8,vascular_plant tracheophyte
+11,physical_entity
+11,physical_entity
+14,whole unit
+7,plant flora plant_life OR vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+19,physical_entity
+18,physical_entity
+3,fern
+9,vascular_plant tracheophyte OR plant flora plant_life
+14,physical_entity
+10,whole unit
+17,physical_entity
+6,vascular_plant tracheophyte
+10,physical_entity
+12,physical_entity
+9,vascular_plant tracheophyte OR plant flora plant_life
+10,vascular_plant tracheophyte
+10,physical_entity
+17,physical_entity
+14,physical_entity
+10,vascular_plant tracheophyte
+12,whole unit
+9,vascular_plant tracheophyte
+8,woody_plant ligneous_plant
+17,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+15,physical_entity
+8,vascular_plant tracheophyte OR plant flora plant_life
+13,physical_entity
+14,physical_entity
+14,physical_entity
+18,physical_entity
+13,physical_entity
+7,vascular_plant tracheophyte
+2,river
+7,herb herbaceous_plant
+20,physical_entity
+6,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+14,physical_entity
+19,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+8,body_part
+6,vascular_plant tracheophyte
+20,whole unit
+15,whole unit
+8,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+4,tree
+9,whole unit
+8,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+16,physical_entity
+13,whole unit
+17,physical_entity
+5,woody_plant ligneous_plant
+9,vascular_plant tracheophyte
+15,physical_entity
+7,thing
+7,organism being
+5,herb herbaceous_plant
+10,vascular_plant tracheophyte
+12,whole unit
+19,physical_entity
+8,plant flora plant_life OR vascular_plant tracheophyte
+14,whole unit
+2,herb herbaceous_plant
+11,physical_entity
+10,vascular_plant tracheophyte
+8,vascular_plant tracheophyte OR plant flora plant_life
+7,vascular_plant tracheophyte
+20,physical_entity
+13,physical_entity
+6,tree
+5,vascular_plant tracheophyte
+5,vascular_plant tracheophyte
+9,vascular_plant tracheophyte
+8,physical_entity
+8,tree
+16,physical_entity
+20,physical_entity
+14,whole unit
+19,physical_entity
+6,vascular_plant tracheophyte
+11,physical_entity
+15,whole unit
+15,physical_entity
+5,vascular_plant tracheophyte
+16,whole unit
+8,vascular_plant tracheophyte
+15,physical_entity
+7,vascular_plant tracheophyte
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+16,physical_entity
+19,physical_entity
+14,physical_entity
+13,physical_entity
+15,whole unit
+17,physical_entity
+5,vascular_plant tracheophyte
+15,physical_entity
+12,thing
+17,physical_entity
+18,physical_entity
+14,physical_entity
+19,physical_entity
+16,physical_entity
+3,vein vena venous_blood_vessel
+2,shrub bush
+17,physical_entity
+14,physical_entity
+14,physical_entity
+15,physical_entity
+16,physical_entity
+6,organism being
+10,physical_entity
+5,woody_plant ligneous_plant
+18,physical_entity
+15,physical_entity
+16,physical_entity
+10,vascular_plant tracheophyte
+10,vascular_plant tracheophyte
+16,physical_entity
+13,physical_entity
+7,vascular_plant tracheophyte
+6,vascular_plant tracheophyte
+5,tree
+19,physical_entity
+7,vascular_plant tracheophyte
+16,physical_entity
+7,vascular_plant tracheophyte
+2,herb herbaceous_plant
+15,physical_entity
+10,vascular_plant tracheophyte
+14,physical_entity
+16,physical_entity
+13,physical_entity
+20,physical_entity
+17,physical_entity
+4,edible_fruit
+16,physical_entity
+16,physical_entity
+13,physical_entity
+7,vascular_plant tracheophyte OR plant flora plant_life
+14,physical_entity
+16,physical_entity
+4,tree
+13,physical_entity
+14,physical_entity
+10,thing
+10,vascular_plant tracheophyte
+15,physical_entity
+8,vascular_plant tracheophyte
+16,physical_entity
+6,vascular_plant tracheophyte
+13,physical_entity
+6,vascular_plant tracheophyte
+11,physical_entity
+14,whole unit
+17,physical_entity
+18,physical_entity
+13,physical_entity
+16,physical_entity
+8,vascular_plant tracheophyte
+10,physical_entity
+13,physical_entity
+11,whole unit
+9,vascular_plant tracheophyte
+2,shrub bush
+11,thing
+15,physical_entity
+13,whole unit
+11,physical_entity
+12,whole unit
+10,whole unit
+4,bone os
+11,vascular_plant tracheophyte
+14,physical_entity
+4,herb herbaceous_plant
+14,physical_entity
+14,thing
+2,vine
+8,vascular_plant tracheophyte
+17,physical_entity
+7,vascular_plant tracheophyte
+8,body_part
+12,physical_entity
+17,physical_entity
+9,whole unit
+16,physical_entity
+7,vascular_plant tracheophyte
+8,vascular_plant tracheophyte
+17,physical_entity
+10,physical_entity
+8,vascular_plant tracheophyte
+8,body_part
+17,physical_entity
+8,thing
+17,physical_entity
+16,physical_entity
+16,physical_entity
+9,vascular_plant tracheophyte
+16,whole unit
+18,physical_entity
+17,physical_entity
+14,whole unit
+6,vascular_plant tracheophyte
+13,physical_entity
+18,physical_entity
+17,physical_entity
+16,physical_entity
+15,physical_entity
+16,physical_entity
+15,whole unit
+8,vascular_plant tracheophyte
+13,vascular_plant tracheophyte

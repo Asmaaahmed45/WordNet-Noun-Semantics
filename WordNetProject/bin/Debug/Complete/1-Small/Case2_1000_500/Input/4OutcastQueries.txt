@@ -1,0 +1,3 @@
+2
+albumin,animal_fat,animal_oil,wax,venous_blood_system,triglyceride,tallow_oil,sperm_oil,muscular_tissue,part
+nerve_pathway,oligodendroglia,radiatio_optica,optic_radiation,nervus,thing,funny_bone,fiber_bundle

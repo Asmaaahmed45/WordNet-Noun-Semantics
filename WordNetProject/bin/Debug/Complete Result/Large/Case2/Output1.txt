@@ -1,0 +1,1500 @@
+6,pollutant 
+10,precipitation 
+7,encouragement 
+11,brace_wrench 
+7,field_trial 
+6,screwdriver 
+8,kiwi kiwi_fruit Chinese_gooseberry 
+10,hog_plum yellow_mombin yellow_mombin_tree Spondias_mombin 
+10,light lightness 
+6,congenialness congeniality 
+12,trap 
+9,myositis 
+9,quadric quadric_surface 
+14,precipitation 
+4,Taiwan_dollar 
+9,Chickasaw 
+7,lichen 
+5,slider 
+12,ready-mix 
+9,stumbling_block 
+7,Chinese_restaurant_syndrome 
+10,malathion_poisoning 
+8,bedpan 
+15,status position 
+8,ceremony 
+9,precipitation 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,calvaria skullcap 
+5,thyroid_cartilage Adam's_apple 
+10,deathwatch_beetle deathwatch Xestobium_rufovillosum 
+6,soft_soap green_soap 
+10,oroide oreide 
+8,amplification elaboration 
+7,oroide oreide 
+6,rationale principle 
+9,Nina 
+9,ancestor ascendant ascendent antecedent root 
+8,medlar 
+7,bungalow cottage 
+7,Highlands Highlands_of_Scotland 
+8,Guinness 
+7,veal_cordon_bleu 
+9,cinchona chinchona 
+8,timecard 
+11,volcanic_glass 
+19,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+13,comfort comfortableness 
+7,leptomeningitis 
+9,accommodation 
+11,nephrosclerosis nephroangiosclerosis 
+5,par_value face_value nominal_value 
+3,Gilbert Humphrey_Gilbert Sir_Humphrey_Gilbert 
+10,conditionality 
+6,prudence 
+5,Roman_alphabet Latin_alphabet 
+9,strand 
+8,footcandle 
+6,Argentinidae family_Argentinidae 
+7,moss_agate 
+4,sharecropper cropper sharecrop_farmer 
+12,scalper 
+16,scalper 
+8,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+10,prairie_orchid prairie_white-fringed_orchis Habenaria_leucophaea 
+6,Dimetapp 
+6,individual_retirement_account IRA 
+19,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,strip slip 
+8,Cracticidae family_Cracticidae 
+10,minuteness 
+15,Cayman_Islands 
+7,genus_Alocasia 
+5,periodic_event recurrent_event 
+8,civil_liberty political_liberty 
+4,data_system information_system 
+9,Drepanididae family_Drepanididae 
+8,smooth_darling_pea Swainsona_galegifolia 
+8,oroide oreide 
+7,antiseptic 
+9,Drepanididae family_Drepanididae 
+7,zoonosis zoonotic_disease 
+8,Brotulidae family_Brotulidae 
+9,oroide oreide 
+8,authority authorization authorisation potency dominance say-so 
+6,myositis 
+8,Bakersfield 
+8,eohippus dawn_horse 
+14,oroide oreide 
+9,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+6,hyphenation 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+13,oroide oreide 
+9,Drepanididae family_Drepanididae 
+8,she-devil 
+10,matrimonial_law 
+8,fatwa 
+9,wood_duck summer_duck wood_widgeon Aix_sponsa 
+6,mail_order 
+14,sunglass 
+5,Chen subgenus_Chen 
+7,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,horsepower HP H.P. 
+8,fixed_intonation 
+14,wiper wiper_arm contact_arm 
+11,Temple_of_Apollo Oracle_of_Apollo Delphic_oracle oracle_of_Delphi 
+7,claim 
+14,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,air-to-air_missile 
+8,complement 
+7,red_buckeye 
+5,data_system information_system 
+8,Leakey Mary_Leakey Mary_Douglas_Leakey 
+9,conditionality 
+11,network web 
+9,whey milk_whey 
+12,river_shad Alosa_chrysocloris 
+15,supertitle surtitle 
+7,profoundness 
+9,complex composite 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,soft_rot 
+10,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+6,nucleotide base 
+9,acrostic 
+14,scalp 
+12,United_Methodist_Church 
+8,oroide oreide 
+7,bowl 
+8,bungalow cottage 
+11,operating_microscope 
+6,sulfur_oxide sulphur_oxide 
+15,oroide oreide 
+9,Malay Malayan 
+7,Chlorophoneus genus_Chlorophoneus 
+10,current electric_current 
+9,Drepanididae family_Drepanididae 
+6,uprightness rectitude 
+9,Qatari Katari 
+16,Chlorophoneus genus_Chlorophoneus 
+7,genus_Plasmodium 
+9,Master_of_Theology ThM 
+6,linkage_group linked_genes 
+8,oroide oreide 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,microfarad 
+7,black_walnut black_walnut_tree black_hickory Juglans_nigra 
+7,sparrow_hawk American_kestrel kestrel Falco_sparverius 
+9,Nob_Hill 
+8,Tom_Sawyer 
+10,emulation 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,aioli aioli_sauce garlic_sauce 
+5,achene 
+13,Drepanididae family_Drepanididae 
+7,decigram dg 
+11,Chlorophoneus genus_Chlorophoneus 
+10,C_clef 
+9,eisegesis 
+9,notice 
+10,oroide oreide 
+5,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+8,principal 
+4,prosecution 
+9,Jainism 
+9,yellow-dog_contract 
+6,armored_searobin armored_sea_robin Peristedion_miniatum 
+11,oroide oreide 
+6,leucothoe 
+8,acoustic_modem 
+9,corner 
+8,Walter Bruno_Walter 
+12,slenderness slightness slimness 
+6,genocide race_murder racial_extermination 
+5,attractive_nuisance 
+13,Nob_Hill 
+8,scalper 
+9,divertimento serenade 
+6,Otto_I Otho_I Otto_the_Great 
+7,pine_grosbeak Pinicola_enucleator 
+8,status position 
+10,bluethroat_pikeblenny Chaenopsis_ocellata 
+7,vagus vagus_nerve nervus_vagus pneumogastric pneumogastric_nerve tenth_cranial_nerve wandering_nerve 
+8,fine_structure 
+9,Chlorophoneus genus_Chlorophoneus 
+8,Tipuana genus_Tipuana 
+7,fatwa 
+8,pollutant 
+7,Oates Joyce_Carol_Oates 
+6,bola 
+13,wiper wiper_arm contact_arm 
+9,Chlorophoneus genus_Chlorophoneus 
+12,Zamboni 
+9,imide 
+7,discoid_lupus_erythematosus DLE 
+9,subeditor 
+9,turntable 
+5,lesser_omentum 
+7,kitbag kit_bag 
+8,caste 
+8,grant-in-aid 
+13,Unitarian_Church 
+10,urine piss pee piddle weewee water 
+16,conditionality 
+13,scalper 
+8,remittance_man 
+8,bulbul 
+8,Mycenae 
+7,hole hollow 
+4,contrary 
+16,wiper wiper_arm contact_arm 
+10,horsemint Mentha_longifolia 
+10,Cayman_Islands 
+11,hilus hilum 
+8,great-niece grandniece 
+10,Chlorophoneus genus_Chlorophoneus 
+14,Chlorophoneus genus_Chlorophoneus 
+10,timecard 
+9,quadric quadric_surface 
+12,fur 
+11,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+5,urine piss pee piddle weewee water 
+7,snow_tire 
+9,conventionality 
+8,canon 
+10,decigram dg 
+8,Leakey Mary_Leakey Mary_Douglas_Leakey 
+10,Islamist 
+7,arquebus harquebus hackbut hagbut 
+7,low depression 
+13,C_clef 
+13,conditionality 
+10,trap 
+8,volcanic_glass 
+10,bonanza 
+9,Opisthognathidae family_Opisthognathidae 
+10,Benny Jack_Benny Benjamin_Kubelsky 
+7,lettercard 
+12,oroide oreide 
+11,brace_wrench 
+12,wiper wiper_arm contact_arm 
+6,rabbit_ears 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,corner 
+13,red_buckeye 
+4,firewall 
+7,wirehair wirehaired_terrier wire-haired_terrier 
+8,lethal_dose 
+5,Brotulidae family_Brotulidae 
+16,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,Larix genus_Larix 
+10,Hakham 
+9,horsemint Mentha_longifolia 
+15,Chlorophoneus genus_Chlorophoneus 
+6,peach 
+10,Congregational_Christian_Church 
+5,Lauder Harry_Lauder Sir_Harry_MacLennan_Lauder 
+9,eye_dialect 
+9,scalp 
+8,roulette_ball 
+9,sulfur_oxide sulphur_oxide 
+8,Richard_II 
+10,concomitance 
+8,welt 
+8,malathion_poisoning 
+8,sleeper 
+12,indigo_snake gopher_snake Drymarchon_corais 
+6,wormcast 
+8,rose_apple 
+20,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,clapper applauder 
+8,mountain_bladder_fern Cystopteris_montana 
+8,Nob_Hill 
+12,genus_Sterculia 
+11,horsemint Mentha_longifolia 
+6,orzo 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,gunrunner arms-runner 
+7,studio_couch day_bed 
+11,hog_plum yellow_mombin yellow_mombin_tree Spondias_mombin 
+9,digraph digram 
+8,pang 
+10,ejaculator 
+6,C_clef 
+6,honey_plant 
+7,Cayman_Islands 
+11,demerit fault 
+9,wiper wiper_arm contact_arm 
+10,decay decomposition 
+6,Brioschi 
+11,pheasant_coucal pheasant_cuckoo Centropus_phasianinus 
+6,etching 
+8,United_Methodist_Church 
+11,sunburn erythema_solare 
+7,Trapa genus_Trapa 
+10,person_of_color person_of_colour 
+8,proposition 
+12,Chlorophoneus genus_Chlorophoneus 
+7,dullness 
+5,physical_entity 
+9,athletic_facility 
+10,conditionality 
+9,Russian_almond dwarf_Russian_almond Prunus_tenella 
+8,calligraphy penmanship chirography 
+9,rotunda 
+9,communist commie 
+8,Drepanididae family_Drepanididae 
+7,serology 
+8,carnosaur 
+9,concomitance 
+9,Cayman_Islands 
+8,instillator 
+8,rate_of_exchange exchange_rate 
+14,bracket angle_bracket 
+9,lupus_vulgaris 
+16,placer_mining 
+7,nominalist 
+11,honey_locust Gleditsia_triacanthos 
+8,buyout 
+9,Congregational_Christian_Church 
+9,horsepower HP H.P. 
+3,Mycenae 
+3,floor base 
+11,digraph digram 
+6,wrath 
+11,law_of_thermodynamics 
+8,Mustelus genus_Mustelus 
+7,male_bonding 
+5,Astacidae family_Astacidae Astacura 
+16,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+2,spit spitting expectoration 
+7,great_hall 
+9,buyout 
+8,beer_glass 
+5,Rochester 
+10,scalper 
+3,lexicology 
+8,blood_clot grume 
+16,volcanic_glass 
+11,amplification elaboration 
+17,Chlorophoneus genus_Chlorophoneus 
+9,manta manta_ray devilfish 
+10,Dufy Raoul_Dufy 
+6,loss deprivation 
+10,oroide oreide 
+5,rheum 
+7,Jainism 
+8,field_goal 
+12,oroide oreide 
+11,dilatoriness procrastination 
+8,titterer giggler 
+12,status position 
+9,Drepanididae family_Drepanididae 
+10,lectureship 
+7,peach 
+7,Quapaw 
+6,Chickamauga battle_of_Chickamauga 
+13,Drepanididae family_Drepanididae 
+10,scourge flagellum 
+9,instillator 
+12,Chlorophoneus genus_Chlorophoneus 
+6,Congregational_Christian_Church 
+8,molecular_formula 
+12,sulfur_oxide sulphur_oxide 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,open_house 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,ethane C2H6 
+13,whooper whooper_swan Cygnus_cygnus 
+13,cleaner dry_cleaner 
+9,dead_nettle 
+8,fur 
+6,buyout 
+11,pollutant 
+9,abridger abbreviator 
+11,status_quo 
+10,horsepower HP H.P. 
+13,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,fresco 
+7,Scolopacidae family_Scolopacidae 
+6,radiator 
+14,concomitance 
+9,barbital veronal barbitone diethylbarbituric_acid diethylmalonylurea 
+5,Larix genus_Larix 
+12,quadric quadric_surface 
+8,Woodhull Victoria_Clafin_Woodhull 
+8,Badlands_National_Park 
+12,moss_agate 
+12,abridger abbreviator 
+19,oroide oreide 
+9,Balanchine George_Balanchine 
+8,soap_bubble 
+9,genus_Wisteria 
+8,circus 
+8,courtesy good_manners 
+7,yuan kwai 
+6,soya_milk soybean_milk soymilk 
+12,Chlorophoneus genus_Chlorophoneus 
+8,scarlet_fever scarlatina 
+9,proposition 
+9,Congregational_Christian_Church 
+7,dideoxycytosine ddC DDC zalcitabine 
+7,Zamboni 
+12,wiper wiper_arm contact_arm 
+8,streak 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,wiper wiper_arm contact_arm 
+10,concomitance 
+10,Dreiser Theodore_Dreiser Theodore_Herman_Albert_Dreiser 
+10,ready-mix 
+9,lead_arsenate 
+6,emulation 
+9,elk moose Alces_alces 
+22,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,plasma_thromboplastin_antecedent factor_XI 
+11,amplification elaboration 
+11,kola_nut cola_nut 
+13,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+11,red_buckeye 
+8,water_speedwell Veronica_michauxii Veronica_anagallis-aquatica 
+8,Chukchi 
+6,garbage_truck dustcart 
+8,fundamental fundamental_frequency first_harmonic 
+11,conditionality 
+8,Dreiser Theodore_Dreiser Theodore_Herman_Albert_Dreiser 
+2,spare_tire love_handle 
+5,calvaria skullcap 
+8,spacing 
+10,relativistic_mass 
+13,proposition 
+23,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+13,field_trial 
+7,conformity conformance 
+11,hollow holler 
+5,masterpiece chef-d'oeuvre 
+8,profiterole 
+8,Sheffield 
+12,Agrobacterium genus_Agrobacterium 
+8,representation mental_representation internal_representation 
+9,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+7,buckeye horse_chestnut conker 
+7,Galveston_Island 
+11,autonomic_plexus plexus_autonomici 
+13,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,person_of_color person_of_colour 
+8,ambivalence ambivalency 
+8,rainbow_smelt Osmerus_mordax 
+9,oroide oreide 
+8,Kolam 
+16,Chlorophoneus genus_Chlorophoneus 
+10,scalper 
+7,corn_lily 
+7,Sarcochilus genus_Sarcochilus 
+8,fastball heater smoke hummer bullet 
+7,pachycheilia 
+9,nonsmoker 
+9,Sarcochilus genus_Sarcochilus 
+9,bobby_pin hairgrip grip 
+10,buyout 
+10,rifle_range rifle_shot 
+6,word_finder wordfinder 
+7,demerit fault 
+12,oroide oreide 
+10,proposition 
+12,oroide oreide 
+5,diffuse_nebula gaseous_nebula 
+7,white_hope great_white_hope 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+12,concomitance 
+10,Cayman_Islands 
+9,garbage_truck dustcart 
+9,Chimonanthus genus_Chimonanthus 
+9,genetic_marker 
+4,riel 
+8,end 
+16,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+5,estoppel 
+10,Garrulinae subfamily_Garrulinae 
+7,spell-checker spelling_checker 
+8,Owensboro 
+10,quadric quadric_surface 
+12,Rochester 
+10,Drepanididae family_Drepanididae 
+9,frank frankfurter hotdog hot_dog dog wiener wienerwurst weenie 
+13,scalper 
+7,dim_sum 
+7,snow_tire 
+6,culture civilization civilisation 
+16,oroide oreide 
+5,data_system information_system 
+9,private_nuisance 
+7,linage lineage 
+10,bowl 
+9,unbecomingness 
+14,volcanic_glass 
+7,actinic_radiation actinic_ray 
+20,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+12,eudiometer 
+7,apse apsis 
+10,Zurvan 
+8,picofarad 
+7,stomacher 
+4,Rushmore Mount_Rushmore Mt._Rushmore 
+9,person_of_color person_of_colour 
+14,oroide oreide 
+9,thoroughbred_race 
+7,implication 
+10,spaceflight space_travel spacefaring 
+8,chamber 
+8,sewage_farm 
+10,athletic_facility 
+8,tidal_wave 
+4,puppy 
+8,Ancylostomatidae family_Ancylostomatidae 
+9,Nob_Hill 
+8,fitting try-on trying_on 
+8,dedication 
+5,effectiveness effectivity effectualness effectuality 
+11,accession addition 
+19,takeaway 
+7,moiety mediety 
+6,validity validness 
+8,Erythrocebus genus_Erythrocebus 
+8,representation mental_representation internal_representation 
+10,dune_buggy beach_buggy 
+6,military_pace 
+10,sales_tax nuisance_tax 
+8,heat_of_solidification 
+17,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,cleaner dry_cleaner 
+6,representation mental_representation internal_representation 
+13,Unitarian_Church 
+8,France Anatole_France Jacques_Anatole_Francois_Thibault 
+7,Anderson Sherwood_Anderson 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,armored_vehicle armoured_vehicle 
+9,slenderness slightness slimness 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,docking moorage dockage tying_up 
+8,trigeminal_neuralgia tic_douloureux 
+9,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+9,transformation transmutation shift 
+7,placer_mining 
+8,free_hand blank_check 
+7,Kursk 
+9,Jainism 
+9,barbital veronal barbitone diethylbarbituric_acid diethylmalonylurea 
+6,predicate 
+12,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+7,lingual 
+17,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,Congregational_Christian_Church 
+8,spearhead spearpoint spear-point 
+10,Hemerobiidae family_Hemerobiidae 
+6,symphony_orchestra symphony philharmonic 
+8,posseman 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+4,wisecrack crack sally quip 
+10,sharpshooter 
+8,Sheffield 
+13,Unitarian_Church 
+9,Woden Wodan 
+8,uvula 
+8,Chukchi Chukchi_language 
+8,bulbil bulblet 
+10,Dreiser Theodore_Dreiser Theodore_Herman_Albert_Dreiser 
+6,Sheffield 
+9,Cayman_Islands 
+7,trespass_quare_clausum_fregit 
+7,current electric_current 
+6,Simuliidae family_Simuliidae 
+11,profit_sharing 
+8,scalper 
+8,scalper 
+10,sunburn erythema_solare 
+5,shrinkage 
+9,red_giant red_giant_star 
+6,dovishness 
+5,earthball false_truffle puffball hard-skinned_puffball 
+14,scalper 
+14,Chlorophoneus genus_Chlorophoneus 
+7,fixed_oil fatty_oil 
+8,dysphemism 
+8,luxuriance lushness voluptuousness 
+9,pink garden_pink 
+7,joint_return 
+11,Chlorophoneus genus_Chlorophoneus 
+10,Unitarian_Church 
+10,Master_of_Theology ThM 
+8,Chlorophoneus genus_Chlorophoneus 
+6,unfairness inequity 
+6,box_elder ash-leaved_maple Acer_negundo 
+13,United_Methodist_Church 
+11,amplification elaboration 
+6,company 
+7,shroud 
+12,Unitarian_Church 
+8,common_European_dogwood red_dogwood blood-twig pedwood Cornus_sanguinea 
+9,wateriness 
+14,Chlorophoneus genus_Chlorophoneus 
+9,Brioschi 
+6,antipathy aversion distaste 
+11,dune_buggy beach_buggy 
+9,Bulgarian 
+10,precipitation 
+9,sunburn erythema_solare 
+10,dirty_pool 
+8,vote 
+8,relations dealings 
+6,dermis corium derma 
+8,actor's_agent theatrical_agent 
+5,Russian_almond dwarf_Russian_almond Prunus_tenella 
+10,data_system information_system 
+14,Unitarian_Church 
+9,corner 
+8,light lightness 
+5,localization_of_function localisation_of_function localization_principle localisation_principle localization localisation 
+10,hog_plum yellow_mombin yellow_mombin_tree Spondias_mombin 
+11,antipathy aversion distaste 
+7,Norwich_terrier 
+12,Chlorophoneus genus_Chlorophoneus 
+10,hindrance hinderance interference 
+7,malathion_poisoning 
+9,luxuriance lushness voluptuousness 
+8,lichen 
+8,remittance_man 
+9,oroide oreide 
+4,indecisiveness indecision 
+8,Highlands Highlands_of_Scotland 
+18,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+13,supertitle surtitle 
+7,Tinbergen Jan_Tinbergen 
+9,pneumonia 
+8,Cayman_Islands 
+5,Leakey Mary_Leakey Mary_Douglas_Leakey 
+11,messenger_RNA mRNA template_RNA informational_RNA 
+9,autonomic_plexus plexus_autonomici 
+5,fourth_ventricle 
+11,supertitle surtitle 
+12,Richard_II 
+8,burdensomeness heaviness onerousness oppressiveness 
+13,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+13,volcanic_glass 
+7,Sheffield 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+20,Chlorophoneus genus_Chlorophoneus 
+8,offer_price 
+8,bungalow cottage 
+9,pettiness triviality slightness puniness 
+5,twist turn 
+10,genus_Sterculia 
+7,Chlorophoneus genus_Chlorophoneus 
+8,lieutenant_junior_grade lieutenant_JG 
+6,reclamation reformation 
+12,loader 
+6,tactic tactics maneuver manoeuvre 
+9,dyadic_operation 
+7,bungalow cottage 
+5,ceibo crybaby_tree cry-baby_tree common_coral_tree Erythrina_crista-galli 
+8,soft_rot 
+7,scalper 
+10,common_European_dogwood red_dogwood blood-twig pedwood Cornus_sanguinea 
+6,riding_bitt 
+7,eyelash lash cilium 
+7,Siberian_elm Chinese_elm dwarf_elm Ulmus_pumila 
+6,falsifier 
+9,oroide oreide 
+7,ejaculator 
+8,miler 
+11,Chlorophoneus genus_Chlorophoneus 
+10,Great_Schism 
+7,docking moorage dockage tying_up 
+8,dermis corium derma 
+7,phasianid 
+9,river_shad Alosa_chrysocloris 
+7,bowl 
+10,bungalow cottage 
+8,red_buckeye 
+8,digester 
+10,catamaran 
+11,fur 
+10,Punica genus_Punica 
+9,jab jabbing poke poking thrust thrusting 
+11,oroide oreide 
+11,status_quo 
+6,helminthiasis 
+12,scalper 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,program programme 
+18,fine_structure 
+6,tiger_cat Felis_tigrina 
+10,maceration 
+6,conditionality 
+13,caste 
+6,sarcomere 
+7,columnist editorialist 
+7,spiv 
+11,Drepanididae family_Drepanididae 
+10,network web 
+8,confidence 
+9,Drepanididae family_Drepanididae 
+9,construal 
+8,Poinciana subgenus_Poinciana 
+6,eisegesis 
+8,xeranthemum 
+7,Richard_II 
+8,unguiculate unguiculate_mammal 
+8,opopanax 
+9,oroide oreide 
+7,nasal_cavity 
+9,quadric quadric_surface 
+10,stammel 
+5,C_clef 
+10,data_system information_system 
+5,snow_mushroom Tremella_fuciformis 
+8,Manx Manx_cat 
+8,C_clef 
+5,hindrance hinderance hitch preventive preventative encumbrance incumbrance interference 
+9,conformity conformance 
+7,oroide oreide 
+7,stenograph 
+8,scalp 
+9,whooper whooper_swan Cygnus_cygnus 
+13,pollutant 
+6,becket 
+6,scalper 
+6,brace_wrench 
+13,Agnus_Dei Paschal_Lamb 
+9,place station 
+13,scalper 
+9,exotoxin 
+10,Byron Lord_George_Gordon_Byron Sixth_Baron_Byron_of_Rochdale 
+8,moss_agate 
+10,solar_wind 
+14,pollutant 
+6,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+8,elevated_railway elevated_railroad elevated el overhead_railway 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,light lightness 
+15,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+7,radioactive_iodine_test 
+6,evocation summoning 
+6,water_cannon watercannon 
+11,wiper wiper_arm contact_arm 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+5,Lowry L._S._Lowry Laurence_Stephen_Lowry 
+7,linage lineage 
+7,cheerfulness cheer sunniness sunshine 
+13,abridger abbreviator 
+9,Dufy Raoul_Dufy 
+9,oroide oreide 
+11,Chlorophoneus genus_Chlorophoneus 
+12,bungalow cottage 
+14,conditionality 
+8,cadaver corpse stiff clay remains 
+10,oroide oreide 
+18,wiper wiper_arm contact_arm 
+6,light_machine_gun 
+6,population_control 
+11,cleaner dry_cleaner 
+10,marshalling_yard 
+6,sari saree 
+10,sorter 
+10,light_machine_gun 
+8,kitbag kit_bag 
+8,balance_of_trade trade_balance visible_balance trade_gap 
+7,Wintun 
+6,authority authorization authorisation potency dominance say-so 
+8,back dorsum 
+12,United_Methodist_Church 
+11,pollutant 
+7,interstice 
+7,flip_side 
+9,Bulgarian 
+8,Caporetto battle_of_Caporetto 
+10,Chlorophoneus genus_Chlorophoneus 
+7,value 
+8,grant-in-aid 
+6,Badlands_National_Park 
+7,aortic_valve 
+11,brace_wrench 
+7,sagittal_suture interparietal_suture sutura_sagittalis 
+8,wiper wiper_arm contact_arm 
+8,Right_Bank 
+7,negative_identification 
+10,Tipuana genus_Tipuana 
+5,garbage_truck dustcart 
+9,Congregational_Christian_Church 
+9,Grand_Canyon_National_Park 
+9,malathion_poisoning 
+13,oroide oreide 
+8,fortuitousness 
+10,noise dissonance racket 
+9,operating_microscope 
+8,ejaculator 
+5,cause_celebre 
+8,Malay Malayan 
+6,yellow-dog_contract 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,pass 
+11,oroide oreide 
+8,sheep 
+7,fever 
+10,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,Pagophilus genus_Pagophilus 
+11,rotunda 
+9,circus 
+6,saddle_seat 
+6,sweet_orange sweet_orange_tree Citrus_sinensis 
+7,speech_intelligibility 
+10,scalper 
+6,stockfish 
+11,military_pace 
+12,conditionality 
+8,ready-mix 
+8,naval_engineering 
+7,firm house business_firm 
+8,wolframite iron_manganese_tungsten 
+10,post_exchange PX 
+6,gadolinium Gd atomic_number_64 
+10,horsemint Mentha_longifolia 
+13,oroide oreide 
+8,nineteenth 
+10,scalper 
+8,sewage_farm 
+11,oroide oreide 
+6,jeroboam double-magnum 
+14,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,tooth 
+7,dressing bandaging binding 
+18,oroide oreide 
+9,contrast_medium contrast_material 
+19,acromicria acromikria 
+12,Grand_Canyon_National_Park 
+13,scalper 
+10,rose_apple 
+10,node 
+14,scalper 
+12,hindrance hinderance interference 
+9,Baghdad Bagdad capital_of_Iraq 
+6,Trumbo Dalton_Trumbo 
+7,autocracy autarchy 
+15,bungalow cottage 
+6,Congregational_Christian_Church 
+12,Unitarian_Church 
+6,drachma Greek_drachma 
+5,revision revisal revise rescript 
+8,Heshvan 
+7,Astacidae family_Astacidae Astacura 
+9,Baghdad Bagdad capital_of_Iraq 
+11,absorption_spectrum 
+14,scalper 
+5,brace_wrench 
+5,dyadic_operation 
+11,gratefulness thankfulness appreciativeness 
+12,volcanic_glass 
+8,phantom_limb_pain 
+7,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,sunburn erythema_solare 
+9,oroide oreide 
+10,Punica genus_Punica 
+10,1750s 
+10,dollar_mark dollar_sign 
+6,deoxyadenosine_monophosphate A 
+8,oroide oreide 
+7,Pharomacrus genus_Pharomacrus 
+6,Ariidae family_Ariidae 
+0,pectoral pectoral_muscle pectoralis musculus_pectoralis pecs 
+7,monoxide 
+8,ovotestis 
+6,discomfort soreness irritation 
+10,vein vena venous_blood_vessel 
+10,calligraphy penmanship chirography 
+5,Charadrii suborder_Charadrii 
+10,fortuitousness 
+9,pollutant 
+8,supertitle surtitle 
+8,austral 
+13,scalper 
+6,comfort comfortableness 
+10,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,concomitance 
+10,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,Charon 
+7,Alexander_VI Pope_Alexander_VI Borgia Rodrigo_Borgia 
+5,wood_duck summer_duck wood_widgeon Aix_sponsa 
+7,morula 
+5,sweet_orange sweet_orange_tree Citrus_sinensis 
+7,dyadic_operation 
+7,Highness 
+10,thaneship 
+7,necrobiosis_lipoidica necrobiosis_lipoidica_diabeticorum 
+7,polyconic_projection 
+13,wiper wiper_arm contact_arm 
+12,acromicria acromikria 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,Chukchi Chukchi_language 
+16,Drepanididae family_Drepanididae 
+6,capillary capillary_vessel 
+6,gun_muzzle muzzle 
+18,Nob_Hill 
+8,relation telling recounting 
+11,Amish 
+3,antisepsis asepsis 
+8,Tillich Paul_Tillich Paul_Johannes_Tillich 
+12,Drepanididae family_Drepanididae 
+9,river_shad Alosa_chrysocloris 
+11,oroide oreide 
+4,Huayna_Capac 
+10,wiper wiper_arm contact_arm 
+9,archaeornis 
+9,mouthful 
+13,scalper 
+7,stalk stem 
+8,carbolic_acid phenol hydroxybenzene oxybenzene phenylic_acid 
+9,Chlorophoneus genus_Chlorophoneus 
+10,Chlorophoneus genus_Chlorophoneus 
+11,Drepanididae family_Drepanididae 
+4,corner 
+9,instillator 
+9,stumbling_block 
+7,tidal_wave 
+8,river_shad Alosa_chrysocloris 
+8,commonality commonness 
+10,concomitance 
+4,nepheline nephelite 
+7,hog_plum yellow_mombin yellow_mombin_tree Spondias_mombin 
+10,hairdo hairstyle hair_style coiffure coif 
+14,oroide oreide 
+8,line_of_inquiry line_of_questioning 
+9,oroide oreide 
+10,scalper 
+13,oroide oreide 
+8,diverseness diversity multifariousness variety 
+6,hollow holler 
+10,ejaculator 
+14,Chlorophoneus genus_Chlorophoneus 
+10,Chlorophoneus genus_Chlorophoneus 
+8,fatwa 
+8,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+5,United_Methodist_Church 
+8,sales_tax nuisance_tax 
+7,genus_Rhodanthe 
+8,inverted_pleat 
+13,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,shaitan shaytan 
+5,occipitomastoid_suture 
+12,limbo 
+8,expansion_bit expansive_bit 
+9,conditionality 
+7,manta manta_ray devilfish 
+10,conventionality 
+4,Saint_Bernard St_Bernard 
+12,Brioschi 
+6,Qatari Katari 
+11,oroide oreide 
+9,buyout 
+9,oncidium dancing_lady_orchid butterfly_plant butterfly_orchid 
+9,hog_plum yellow_mombin yellow_mombin_tree Spondias_mombin 
+6,lieutenant_junior_grade lieutenant_JG 
+8,Chlorophoneus genus_Chlorophoneus 
+7,crop 
+8,catmint catnip Nepeta_cataria 
+8,musette_pipe 
+10,Chlorophoneus genus_Chlorophoneus 
+4,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+14,scalper 
+10,hilus hilum 
+10,Russian_almond dwarf_Russian_almond Prunus_tenella 
+10,oroide oreide 
+9,concomitance 
+12,oroide oreide 
+8,Republican 
+12,slenderness slightness slimness 
+13,high-density_lipoprotein HDL alpha-lipoprotein 
+5,strip slip 
+7,Economic_Commission_for_Asia_and_the_Far_East 
+10,scalper 
+7,sneak 
+9,gay_liberation_movement gay_lib 
+7,worry trouble 
+10,oroide oreide 
+12,comfort comfortableness 
+7,Cali_cartel 
+10,calligraphy penmanship chirography 
+8,stick_figure 
+13,oroide oreide 
+9,oroide oreide 
+7,oroide oreide 
+12,pollutant 
+6,muff 
+7,Oregon_grape Oregon_holly_grape hollygrape mountain_grape holly-leaves_barberry Mahonia_aquifolium 
+7,firmness 
+9,phantom_limb_pain 
+5,adjunct 
+4,poverty_trap 
+10,Erythrocebus genus_Erythrocebus 
+12,bowl 
+23,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+11,pollutant 
+7,placer_mining 
+12,host 
+9,horsemint Mentha_longifolia 
+4,taro taro_root cocoyam dasheen edda 
+9,genus_Shigella 
+7,perinatology 
+9,bungalow cottage 
+7,grant-in-aid 
+7,Kekchi 
+8,Roman_alphabet Latin_alphabet 
+6,Carthage 
+11,oroide oreide 
+11,worry trouble 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,stammel 
+9,refund repayment 
+8,speaking speech_production 
+4,golden_wedding_anniversary 
+12,fur 
+10,scalper 
+7,scarlet vermilion orange_red 
+10,wiper wiper_arm contact_arm 
+7,Guinea_pepper negro_pepper Xylopia_aethiopica 
+14,fine_structure 
+10,wiper wiper_arm contact_arm 
+8,dead_nettle 
+5,Mali_franc 
+7,label recording_label 
+9,Punica genus_Punica 
+9,Unitarian_Church 
+9,speaking speech_production 
+8,auction auction_bridge 
+5,implantation nidation 
+6,buttercrunch 
+10,red_buckeye 
+10,volcanic_glass 
+8,pass 
+12,wiper wiper_arm contact_arm 
+8,Drepanididae family_Drepanididae 
+5,oyster_crab Pinnotheres_ostreum 
+8,trading_stamp 
+10,unleaded_gasoline unleaded_petrol 
+12,circus 
+5,Colbert Colbert_butter 
+8,proposition 
+9,scalper 
+12,acromicria acromikria 
+10,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,Chlorophoneus genus_Chlorophoneus 
+5,Myrmeleontidae family_Myrmeleontidae 
+8,twenty_dollar_bill twenty 
+8,volcanic_glass 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+14,astonishment amazement 
+8,resignation 
+9,fourth_ventricle 
+10,demerit fault 
+11,red_buckeye 
+9,Mendelssohn Felix_Mendelssohn Jakob_Ludwig_Felix_Mendelssohn-Bartholdy 
+10,Buchner Eduard_Buchner 
+9,trap 
+5,Americanization Americanisation 
+8,bevatron 
+9,wiper wiper_arm contact_arm 
+5,Catalpa_speciosa 
+7,Atrichornis genus_Atrichornis 
+9,Drepanididae family_Drepanididae 
+9,conditionality 
+7,vitamin_pill 
+9,treasure 
+10,bungalow cottage 
+9,bevatron 
+9,nucleosynthesis 
+6,rash roseola efflorescence skin_rash 
+7,pocket 
+11,precipitation 
+7,Chlorophis genus_Chlorophis 
+9,frill ruff 
+6,poker_face 
+8,instillator 
+10,red-hot_poker Kniphofia_praecox 
+8,relations dealings 
+11,pollutant 
+7,Pharomacrus genus_Pharomacrus 
+13,Chlorophoneus genus_Chlorophoneus 
+8,goldbrick goof-off ne'er-do-well good-for-nothing no-account good-for-naught 
+6,Dionysus 
+11,comfort comfortableness 
+11,fine_structure 
+10,oroide oreide 
+10,United_Methodist_Church 
+8,Cayman_Islands 
+8,jade_vine emerald_creeper Strongylodon_macrobotrys 
+11,Temple_of_Apollo Oracle_of_Apollo Delphic_oracle oracle_of_Delphi 
+9,Sheffield 
+6,Drepanididae family_Drepanididae 
+7,SA Sturmabteilung Storm_Troops 
+8,Saint_Joseph St._Joseph 
+5,groan moan 
+9,babka 
+8,Belgian_hare leporide 
+9,military_pace 
+8,posterior_serratus_muscle serratus_posterior musculus_serratus_posterior 
+6,hyaloid_membrane hyaloid 
+6,pseudohallucination 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+10,Drepanididae family_Drepanididae 
+9,oroide oreide 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+9,Selkirk Selcraig Alexander_Selkirk Alexander_Selcraig 
+6,Glaser Donald_Glaser Donald_Arthur_Glaser 
+11,Astacidae family_Astacidae Astacura 
+11,oroide oreide 
+7,Archosargus genus_Archosargus 
+7,hypertonia hypertonus hypertonicity 
+7,relation telling recounting 
+10,box loge 
+8,status position 
+14,red_buckeye 
+4,professional_organization professional_organisation 
+6,cinchona chinchona 
+8,reticular_activating_system RAS 
+8,rabbitfish Chimaera_monstrosa 
+10,field_trial 
+7,soft_rot 
+7,purple_locoweed purple_loco Oxytropis_lambertii 
+12,abridger abbreviator 
+12,United_Methodist_Church 
+9,hernia herniation 
+8,reclamation reformation 
+11,real_gross_national_product real_GNP 
+5,Vetluga Vetluga_River 
+6,horsemint Mentha_longifolia 
+10,pot potbelly bay_window corporation tummy 
+14,conditionality 
+8,Highlands Highlands_of_Scotland 
+4,paving pavement paving_material 
+10,status_quo 
+12,scalper 
+7,clue clew cue 
+9,Chlorophoneus genus_Chlorophoneus 
+14,Chlorophoneus genus_Chlorophoneus 
+8,oroide oreide 
+5,water 
+12,conditionality 
+19,oroide oreide 
+6,displeasure 
+9,director 
+10,high-density_lipoprotein HDL alpha-lipoprotein 
+7,honey_plant 
+7,proposition 
+8,urinary_tract 
+10,precipitation 
+7,Phthirius genus_Phthirius Phthirus genus_Phthirus 
+9,Great_Schism 
+11,Pharomacrus genus_Pharomacrus 
+8,Transfiguration Transfiguration_of_Jesus 
+6,Catharacta genus_Catharacta 
+8,hilus hilum 
+7,Asia 
+7,kiwi kiwi_fruit Chinese_gooseberry 
+10,enchantress temptress siren Delilah femme_fatale 
+14,brace_wrench 
+4,fox_grape Vitis_labrusca 
+4,Jerez Jerez_de_la_Frontera 
+11,oroide oreide 
+11,Tipuana genus_Tipuana 
+10,conditionality 
+3,football 
+8,oroide oreide 
+13,scalper 
+13,hindrance hinderance interference 
+12,Drepanididae family_Drepanididae 
+15,wiper wiper_arm contact_arm 
+9,Richard_II 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,animal_trainer handler 
+10,trap 
+8,living_trust inter_vivos_trust 
+7,Chimonanthus genus_Chimonanthus 
+9,mane head_of_hair 
+10,operating_microscope 
+5,bacillus B 
+7,grand_duchess 
+7,parrot 
+13,supertitle surtitle 
+10,precipitation 
+11,oilpaper 
+7,Larix genus_Larix 
+10,sunburn erythema_solare 
+8,antiseptic 
+6,emission emanation 
+16,Chlorophoneus genus_Chlorophoneus 
+9,relativistic_mass 
+9,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+7,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+11,refund repayment 
+9,nonthrombocytopenic_purpura 
+12,Copley John_Copley John_Singleton_Copley 
+7,orangutan orang orangutang Pongo_pygmaeus 
+8,Rajidae family_Rajidae 
+8,railroad_bed 
+11,Punica genus_Punica 
+9,Sarcochilus genus_Sarcochilus 
+10,low_tide low_water 
+9,caress 
+7,antipathy aversion distaste 
+5,Melanchthon Philipp_Melanchthon Philipp_Schwarzerd 
+4,hood cap 
+8,brace_wrench 
+5,Dermoptera order_Dermoptera 
+19,Chlorophoneus genus_Chlorophoneus 
+8,oroide oreide 
+6,sidebar 
+8,beauty_sleep 
+8,frank frankfurter hotdog hot_dog dog wiener wienerwurst weenie 
+8,cadaver corpse stiff clay remains 
+8,Murray Murray_River 
+7,United_Methodist_Church 
+7,garbage_truck dustcart 
+7,horsemint Mentha_longifolia 
+11,whooper whooper_swan Cygnus_cygnus 
+9,uprightness rectitude 
+11,United_Methodist_Church 
+8,Copley John_Copley John_Singleton_Copley 
+6,instillator 
+8,third_rail 
+7,rabbitfish Chimaera_monstrosa 
+17,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,oroide oreide 
+7,razing wrecking 
+10,concomitance 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,whooper whooper_swan Cygnus_cygnus 
+10,closed_primary 
+12,oilpaper 
+10,genus_Sterculia 
+9,polymorphism 
+14,wiper wiper_arm contact_arm 
+7,genus_Plasmodium 
+9,Charles Charles_River 
+6,twenty_dollar_bill twenty 
+6,status_quo 
+6,Opuntiales order_Opuntiales 
+9,scalper 
+7,current electric_current 
+11,retroversion retroflection retroflexion 
+6,linseed flaxseed 
+11,smooth_darling_pea Swainsona_galegifolia 
+7,fornix 
+7,arrival_time time_of_arrival 
+9,plastron 
+6,emulation 
+12,wiper wiper_arm contact_arm 
+12,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+18,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,corncrake land_rail Crex_crex 
+10,oroide oreide 
+10,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+8,wiper wiper_arm contact_arm 
+11,bungalow cottage 
+10,bungalow cottage 
+8,parietal_gyrus 
+7,civil_liberty political_liberty 
+6,oroide oreide 
+7,welfare_work social_service 
+25,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,Osman_I Othman_I 
+10,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+8,Drepanididae family_Drepanididae 
+7,red_buckeye 
+9,Triga genus_Triga 
+6,group_participation 
+13,civil_liberty political_liberty 
+8,reception_line 
+16,oroide oreide 
+11,chicken_farm 
+8,personification prosopopoeia 
+9,underpayment 
+6,Cape_May_warbler Dendroica_tigrina 
+13,oroide oreide 
+11,Drepanididae family_Drepanididae 
+13,retroversion retroflection retroflexion 
+11,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,property attribute dimension 
+7,imide 
+13,oroide oreide 
+7,Lashkar-e-Taiba Lashkar-e-Toiba Lashkar-e-Tayyiba LET Army_of_the_Pure Army_of_the_Righteous 
+8,limbo 
+6,concomitance 
+8,fatwa 
+11,concomitance 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,rainbow 
+9,gorge 
+9,centrism moderatism 
+11,honey_plant 
+6,cafe coffeehouse coffee_shop coffee_bar 
+7,cash_flow 
+13,pollutant 
+10,capstan 
+9,Temple_of_Apollo Oracle_of_Apollo Delphic_oracle oracle_of_Delphi 
+6,sewage_farm 
+8,travel_allowance travel_reimbursement 
+9,conditionality 
+10,double_door 
+8,demodulation 
+5,chinese_mustard indian_mustard leaf_mustard gai_choi Brassica_juncea 
+9,courtesy good_manners 
+10,Skinner Cornelia_Otis_Skinner 
+11,bitartrate 
+8,evening_shift swing_shift 
+9,horsemint Mentha_longifolia 
+9,oroide oreide 
+13,Unitarian_Church 
+16,Richard_II 
+8,yellowcake U308 
+8,Owen Sir_Richard_Owen 
+6,busload 
+7,liquor 
+8,Namibian 
+5,palette pallet 
+9,commonality commonness 
+5,face 
+12,trap 
+10,military_pace 
+10,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+5,demythologization demythologisation 
+12,capstan 
+9,Crossopterygii subclass_Crossopterygii 
+16,oroide oreide 
+7,comfort comfortableness 
+10,wild_potato_vine wild_sweet_potato_vine man-of-the-earth manroot scammonyroot Ipomoea_panurata Ipomoea_fastigiata 
+8,sophistication worldliness mundaneness mundanity 
+9,Benny Jack_Benny Benjamin_Kubelsky 
+10,Mesa_Verde_National_Park 
+14,plumbing plumbing_system 
+6,telegraph_key 
+6,Pharomacrus genus_Pharomacrus 
+9,field_game 
+14,wiper wiper_arm contact_arm 
+8,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+6,triangulation 
+7,kola_nut cola_nut 
+7,antipathy aversion distaste 
+8,sailfish 
+8,divertimento serenade 
+17,oroide oreide 
+20,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+8,tax_cut 
+10,fine_structure 
+15,oroide oreide 
+6,democracy republic commonwealth 
+6,Boeotia 
+14,status_quo 
+8,bowl 
+7,pencil 
+11,armada 
+9,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+7,trust 
+11,data_system information_system 
+8,day_school 
+5,European_curlew Numenius_arquata 
+7,hysteron_proteron 
+5,Congregational_Christian_Church 
+9,unguiculate unguiculate_mammal 
+10,Labrouste Henri_Labrouste 
+8,United_Methodist_Church 
+12,math_teacher mathematics_teacher 
+7,retention keeping holding 
+8,journal 
+10,Chlorophoneus genus_Chlorophoneus 
+7,pork_roast roast_pork 
+9,back dorsum 
+11,precipitation 
+6,trade_book trade_edition 
+17,supertitle surtitle 
+4,dysphonia 
+10,Saginaw 
+8,neodymium Nd atomic_number_60 
+11,austral 
+12,Chlorophoneus genus_Chlorophoneus 
+3,autogenic_therapy autogenic_training autogenics 
+10,seashore_mallow 
+13,trap 
+9,whooper whooper_swan Cygnus_cygnus 
+7,supertitle surtitle 
+4,airdrop 
+14,conditionality 
+8,river_shad Alosa_chrysocloris 
+6,community 
+6,armada 
+10,hernia herniation 
+6,precipitation 
+7,demoniac 
+9,safe_sex 
+11,Cayman_Islands 
+5,jet_engine 
+6,branch 
+7,wiper wiper_arm contact_arm 
+7,mansion mansion_house manse hall residence 
+7,Nantua shrimp_sauce 
+6,conformity conformance 
+9,antipathy aversion distaste 
+8,grant-in-aid 
+10,mode modal_value 
+9,eudiometer 
+8,scalper 
+10,xeranthemum 
+10,scalp 
+8,concomitance 
+13,conditionality 
+6,flow stream 
+8,Chlorophoneus genus_Chlorophoneus 
+8,precipitation 
+8,magnoliid_dicot_genus 
+8,differentia 
+10,Dacron Terylene 
+9,concomitance 
+10,sunburn erythema_solare 
+12,scalper 
+6,Ammotragus genus_Ammotragus 
+8,impressionist 
+10,incumbency 
+14,oroide oreide 
+8,horsemint Mentha_longifolia 
+9,athletic_facility 
+9,Daytona_Beach 
+7,tearaway 
+11,Unitarian_Church 
+5,status position 
+6,synagogue temple tabernacle 
+10,Carthage 
+9,oroide oreide 
+9,Chlorophoneus genus_Chlorophoneus 
+6,yellowtail yellowtail_snapper Ocyurus_chrysurus 
+8,management 
+15,oroide oreide 
+15,Nob_Hill 
+12,fairness equity 
+9,acromicria acromikria 
+7,oroide oreide 
+6,high-density_lipoprotein HDL alpha-lipoprotein 
+17,acromicria acromikria 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+11,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+8,jalapeno jalapeno_pepper 
+8,lettercard 
+10,Temple_of_Apollo Oracle_of_Apollo Delphic_oracle oracle_of_Delphi 
+8,oroide oreide 
+9,scalper 
+9,plasma_thromboplastin_antecedent factor_XI 
+11,Chlorophoneus genus_Chlorophoneus 
+13,scalper 
+9,misfeasance 
+8,picker 
+12,air-to-air_missile 
+5,source_program 
+8,air-to-air_missile 
+10,pollutant 
+10,oroide oreide 
+6,trifler 
+7,Donatus Aelius_Donatus 
+6,wishful_thinking 
+8,solar_plexus coeliac_plexus plexus_celiacus abdominal_nerve_plexus 
+10,wiper wiper_arm contact_arm 
+13,conditionality 
+9,Chlorophoneus genus_Chlorophoneus 
+8,broad_bean fava_bean horsebean 
+6,rawhide 
+20,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+5,community 
+8,hernia herniation 
+4,Bern Berne capital_of_Switzerland 
+12,Nob_Hill 
+13,abridger abbreviator 
+7,watercolor water-color watercolour water-colour 
+11,Trinectes genus_Trinectes 
+15,virgin's_bower old_man's_beard devil's_darning_needle Clematis_virginiana 
+16,Cayman_Islands 
+10,quarterstaff 
+9,Giraudoux Jean_Giraudoux Hippolyte_Jean_Giraudoux 
+8,tourist_class third_class 
+7,exocrine_gland exocrine duct_gland 
+9,pang 
+6,Drepanididae family_Drepanididae 
+10,Cayman_Islands 
+8,noise dissonance racket 
+7,stumbling_block 
+7,dovishness 
+5,poker_face 
+6,leucothoe 
+9,buyout 
+8,uprightness rectitude 
+7,antipathy aversion distaste 
+10,river_shad Alosa_chrysocloris 
+7,Twin_Cities 
+8,lieutenant_junior_grade lieutenant_JG 

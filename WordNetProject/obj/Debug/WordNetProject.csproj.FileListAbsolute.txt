@@ -1,0 +1,7 @@
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\bin\Debug\WordNetProject.exe.config
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\bin\Debug\WordNetProject.exe
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\bin\Debug\WordNetProject.pdb
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\obj\Debug\WordNetProject.csproj.AssemblyReference.cache
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\obj\Debug\WordNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\obj\Debug\WordNetProject.exe
+C:\Users\Eng-Asmaa\source\repos\WordNetProject\WordNetProject\obj\Debug\WordNetProject.pdb

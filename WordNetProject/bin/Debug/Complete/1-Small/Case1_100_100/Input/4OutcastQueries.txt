@@ -1,0 +1,3 @@
+2
+Christmas_factor,factor_XIII,factor_IV,protein,plasma_thromboplastin_antecedent,prothrombin_accelerator,proconvertin,factor_X,calcium_ion
+human_gamma_globulin,immune_globulin,IgA,IgD,IgE,IgG,IgM,thing,immune_serum_globulin,iodinated_protein

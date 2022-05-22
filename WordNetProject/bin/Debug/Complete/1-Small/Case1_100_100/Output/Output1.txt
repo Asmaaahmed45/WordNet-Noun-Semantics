@@ -1,0 +1,100 @@
+10,entity
+3,protein
+6,protein
+6,simple_protein
+6,protein
+1,coagulation_factor clotting_factor
+4,protein
+10,entity
+2,protein
+3,immunoglobulin Ig immune_serum_globulin immune_gamma_globulin immune_globulin
+6,protein
+10,entity
+5,protein
+6,protein
+10,entity
+4,plasma_protein
+4,globulin
+6,protein
+5,protein
+7,protein
+4,macromolecule supermolecule
+1,immunoglobulin Ig immune_serum_globulin immune_gamma_globulin immune_globulin
+6,protein
+10,entity
+11,entity
+11,entity
+5,protein
+2,coagulation_factor clotting_factor
+4,plasma_protein
+4,protein
+4,protein
+9,entity
+4,plasma_protein
+4,simple_protein
+6,protein
+0,plasma_thromboplastin_antecedent factor_XI
+6,simple_protein
+4,protein
+4,protein
+3,protein
+4,simple_protein
+5,protein
+5,protein
+4,protein
+6,protein
+8,thing
+3,protein
+3,protein
+5,protein
+4,protein
+9,entity
+9,entity
+1,transferase
+12,entity
+5,plasma_protein
+6,protein
+4,enzyme
+4,protein
+6,protein
+2,plasma_protein
+2,coagulation_factor clotting_factor
+4,protein
+6,thing
+4,protein
+11,entity
+5,plasma_protein
+4,macromolecule supermolecule
+5,thing
+5,protein
+11,entity
+6,simple_protein
+4,unit building_block
+4,protein
+3,globulin
+7,unit building_block
+12,entity
+4,macromolecule supermolecule
+10,entity
+4,protein
+11,entity
+3,protein
+11,entity
+2,thing
+5,protein
+4,protein
+3,simple_protein
+4,protein
+6,protein
+0,antihemophilic_factor antihaemophilic_factor antihemophilic_globulin antihaemophilic_globulin factor_VIII Hemofil
+5,molecule
+2,plasma_protein
+2,protein
+4,protein
+5,plasma_protein
+3,protein
+2,simple_protein
+5,protein
+5,protein
+6,protein
+5,plasma_protein

@@ -1,0 +1,2 @@
+Construct Wordnet ~= no time
+Relation Queries ~= 6 minutes 

@@ -1,0 +1,500 @@
+3,lipid lipide lipoid
+11,body_part
+13,thing
+12,thing
+10,thing
+13,thing
+7,animal_tissue
+11,thing
+11,thing
+17,thing
+6,body_part
+11,thing
+6,thing
+12,thing
+4,animal_tissue
+13,thing
+9,part piece
+12,body_part
+11,body_part
+14,thing
+5,animal_tissue
+13,thing
+9,part piece
+11,thing
+8,unit building_block
+15,thing
+10,part piece
+11,thing
+7,thing
+15,thing
+5,part piece
+4,animal_tissue
+3,vein vena venous_blood_vessel
+9,body_part
+7,macromolecule supermolecule
+4,unit building_block
+14,thing
+9,thing
+6,animal_tissue
+6,animal_tissue
+8,unit building_block
+9,thing
+7,body_part
+9,thing
+6,thing
+9,unit building_block
+9,unit building_block
+2,vein vena venous_blood_vessel
+11,entity
+7,part piece
+11,thing
+9,thing
+13,thing
+14,thing
+6,thing
+14,thing
+7,animal_tissue
+11,thing
+14,thing
+11,thing
+11,thing
+9,part piece
+15,thing
+15,thing
+9,animal_tissue
+7,animal_tissue
+12,body_part
+7,thing
+9,thing
+7,animal_tissue
+11,thing
+4,unit building_block
+6,animal_tissue
+15,thing
+10,body_part
+8,animal_tissue
+8,thing
+6,animal_tissue
+7,thing
+15,thing
+14,thing
+4,bone os
+14,thing
+7,entity
+8,body_part
+9,body_part
+7,unit building_block
+15,thing
+11,thing
+11,body_part
+7,animal_tissue
+8,molecule
+4,protein
+7,macromolecule supermolecule
+7,body_part
+6,animal_tissue
+14,thing
+4,animal_tissue
+10,body_part
+12,body_part
+4,macromolecule supermolecule
+15,thing
+8,body_part
+13,thing
+9,part piece
+11,thing
+7,animal_tissue
+12,thing
+14,thing
+6,animal_tissue
+3,bone os
+7,body_part
+3,animal_tissue
+13,thing
+9,thing
+4,animal_tissue
+14,thing
+8,unit building_block
+8,body_part
+9,thing
+14,thing
+16,thing
+4,lipid lipide lipoid
+7,body_part
+8,macromolecule supermolecule
+3,bone os
+7,thing
+4,animal_tissue
+4,carbohydrate saccharide sugar
+12,thing
+11,body_part
+9,body_part
+17,thing
+12,thing
+6,animal_tissue
+4,protein
+13,body_part
+9,body_part
+3,bone os
+14,thing
+6,protein
+9,thing
+9,thing
+13,thing
+9,body_part
+14,thing
+14,thing
+10,entity
+11,thing
+11,thing
+8,macromolecule supermolecule
+12,thing
+16,thing
+7,part piece
+13,thing
+8,macromolecule supermolecule
+7,animal_tissue
+15,thing
+5,animal_tissue
+4,bone os
+14,thing
+6,protein
+7,thing
+10,thing
+8,part piece
+4,nerve nervus
+9,thing
+5,macromolecule supermolecule
+15,thing
+16,thing
+15,thing
+2,cranial_nerve
+9,part piece
+11,thing
+10,body_part
+12,thing
+11,body_part
+11,thing
+13,thing
+10,thing
+14,thing
+7,macromolecule supermolecule
+11,thing
+16,thing
+9,thing
+7,animal_tissue
+9,part piece
+7,macromolecule supermolecule
+9,thing
+8,animal_tissue
+12,thing
+7,body_part
+12,body_part
+9,thing
+7,part piece
+8,animal_tissue
+13,body_part
+7,body_part
+12,thing
+16,thing
+13,thing
+11,body_part
+11,body_part
+15,thing
+3,part piece
+12,thing
+13,thing
+4,connective_tissue
+7,unit building_block
+8,animal_tissue
+9,part piece
+15,thing
+9,thing
+10,thing
+11,body_part
+10,thing
+11,thing
+12,thing
+12,thing
+12,body_part
+6,protein
+11,body_part
+9,macromolecule supermolecule
+16,thing
+12,thing
+6,molecule
+16,thing
+6,body_part
+10,body_part
+14,thing
+14,thing
+8,body_part
+9,macromolecule supermolecule
+10,body_part
+15,thing
+7,macromolecule supermolecule
+3,animal_tissue
+7,macromolecule supermolecule
+12,thing
+3,bone os
+8,animal_tissue
+10,thing
+13,thing
+12,thing
+13,thing
+7,macromolecule supermolecule
+7,animal_tissue
+12,thing
+11,thing
+17,thing
+14,thing
+13,thing
+13,thing
+5,protein
+9,thing
+9,thing
+14,thing
+14,thing
+14,thing
+6,thing
+14,thing
+14,thing
+4,animal_tissue
+7,body_part
+11,body_part
+11,thing
+8,thing
+13,body_part
+6,part piece
+8,animal_tissue
+13,thing
+8,animal_tissue
+6,thing
+14,thing
+15,thing
+10,body_part
+5,nervous_tissue nerve_tissue
+13,thing
+6,protein
+10,part piece
+3,part piece
+14,thing
+2,cranial_nerve
+7,body_part
+14,thing
+11,body_part
+8,body_part
+2,enzyme
+13,thing
+12,thing
+16,thing
+14,thing
+12,thing
+5,animal_tissue
+9,body_part
+7,body_part
+7,part piece
+3,body_part
+12,thing
+2,group radical chemical_group
+14,thing
+9,animal_tissue
+8,thing
+4,animal_tissue
+8,animal_tissue
+7,thing
+8,macromolecule supermolecule
+1,vein vena venous_blood_vessel
+11,thing
+14,thing
+15,thing
+2,vein vena venous_blood_vessel
+13,thing
+11,thing
+8,unit building_block
+14,thing
+17,thing
+14,thing
+7,macromolecule supermolecule
+10,body_part
+10,entity
+8,thing
+9,body_part
+14,body_part
+16,thing
+12,thing
+8,part piece
+4,macromolecule supermolecule
+8,unit building_block
+6,animal_tissue
+13,body_part
+11,body_part
+3,protein
+14,thing
+7,lipid lipide lipoid
+15,thing
+6,lipid lipide lipoid
+3,bone os
+7,animal_tissue
+6,body_part
+14,thing
+14,thing
+10,thing
+14,thing
+2,bone os
+4,macromolecule supermolecule
+9,animal_tissue
+10,thing
+7,body_part
+8,body_part
+15,thing
+10,thing
+16,thing
+8,macromolecule supermolecule
+14,thing
+8,body_part
+9,animal_tissue
+15,thing
+9,unit building_block
+9,body_part
+10,thing
+14,thing
+6,animal_tissue
+14,thing
+9,animal_tissue
+8,body_part
+7,animal_tissue
+16,thing
+7,macromolecule supermolecule
+13,thing
+6,animal_tissue
+5,animal_tissue
+7,thing
+14,thing
+14,thing
+8,animal_tissue
+6,macromolecule supermolecule
+15,thing
+16,thing
+8,animal_tissue
+5,body_part
+11,thing
+9,body_part
+14,thing
+4,animal_tissue
+11,thing
+8,unit building_block
+15,thing
+4,animal_tissue
+12,body_part
+7,macromolecule supermolecule
+2,tooth
+10,body_part
+13,thing
+10,thing
+8,animal_tissue
+7,body_part
+5,animal_tissue
+5,animal_tissue
+5,protein
+14,thing
+15,thing
+9,body_part
+5,part piece
+13,thing
+14,thing
+13,thing
+11,body_part
+13,thing
+17,thing
+15,thing
+12,thing
+12,thing
+15,thing
+11,thing
+14,thing
+6,unit building_block
+12,body_part
+12,thing
+5,protein
+12,thing
+13,thing
+9,entity
+8,thing
+5,carbohydrate saccharide sugar
+6,macromolecule supermolecule
+13,thing
+10,thing
+15,thing
+15,thing
+14,thing
+12,thing
+3,fiber_bundle fibre_bundle fascicle fasciculus
+2,bone os
+6,animal_tissue
+10,body_part
+6,connective_tissue
+12,thing
+9,thing
+9,unit building_block
+4,lipid lipide lipoid
+8,part piece
+9,part piece
+13,thing
+7,body_part
+8,macromolecule supermolecule
+15,thing
+14,thing
+14,thing
+15,thing
+5,animal_tissue
+14,thing
+13,thing
+9,thing
+8,unit building_block
+4,oil
+13,thing
+11,thing
+5,bone os
+10,thing
+3,nerve nervus
+12,body_part
+5,animal_tissue
+12,thing
+5,animal_tissue
+11,thing
+7,animal_tissue
+7,body_part
+13,thing
+8,animal_tissue
+10,body_part
+7,thing
+1,membrane tissue_layer
+10,unit building_block
+4,lipid lipide lipoid
+12,thing
+8,unit building_block
+6,macromolecule supermolecule
+12,thing
+6,unit building_block
+7,unit building_block
+14,thing
+7,unit building_block
+11,thing
+14,thing
+3,animal_tissue
+8,body_part
+14,thing
+10,thing
+13,thing
+11,body_part
+7,thing
+9,body_part
+6,thing
+13,thing
+4,protein
+2,bone os
+2,bone os
+9,thing
+8,part piece

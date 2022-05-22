@@ -1,0 +1,11 @@
+0,S,one
+1,A,two
+2,B,three
+3,C,four
+4,D,five
+5,e,six
+6,F,seven
+7,G,eight
+8,H,nine
+9,I,ten
+10,E,eleven

@@ -1,0 +1,2 @@
+Relation Queries ~= 1 minute
+Outcast Queries ~= 1 minute
